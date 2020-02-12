@@ -1,0 +1,2406 @@
+{
+  "program": {
+    "fileInfos": {
+      "/home/tigrow/tigrow/backend/typerest/node_modules/typescript/lib/lib.es5.d.ts": {
+        "version": "c8665e66018917580e71792b91022bcaf53fb946fab4aaf8dfb0738ed564db88",
+        "signature": "c8665e66018917580e71792b91022bcaf53fb946fab4aaf8dfb0738ed564db88"
+      },
+      "/home/tigrow/tigrow/backend/typerest/node_modules/typescript/lib/lib.es2015.d.ts": {
+        "version": "7994d44005046d1413ea31d046577cdda33b8b2470f30281fd9c8b3c99fe2d96",
+        "signature": "7994d44005046d1413ea31d046577cdda33b8b2470f30281fd9c8b3c99fe2d96"
+      },
+      "/home/tigrow/tigrow/backend/typerest/node_modules/typescript/lib/lib.es2016.d.ts": {
+        "version": "5f217838d25704474d9ef93774f04164889169ca31475fe423a9de6758f058d1",
+        "signature": "5f217838d25704474d9ef93774f04164889169ca31475fe423a9de6758f058d1"
+      },
+      "/home/tigrow/tigrow/backend/typerest/node_modules/typescript/lib/lib.dom.d.ts": {
+        "version": "6994c583b66862deca24d7bbf77297d95b9d3da8160dbd9beef6b847cf7c1376",
+        "signature": "6994c583b66862deca24d7bbf77297d95b9d3da8160dbd9beef6b847cf7c1376"
+      },
+      "/home/tigrow/tigrow/backend/typerest/node_modules/typescript/lib/lib.dom.iterable.d.ts": {
+        "version": "4c892766803cef795d73d69aee436dc7a80157163e0cf35e6d0e86917cbd42f3",
+        "signature": "4c892766803cef795d73d69aee436dc7a80157163e0cf35e6d0e86917cbd42f3"
+      },
+      "/home/tigrow/tigrow/backend/typerest/node_modules/typescript/lib/lib.webworker.importscripts.d.ts": {
+        "version": "fe4e59403e34c7ff747abe4ff6abbc7718229556d7c1a5b93473fb53156c913b",
+        "signature": "fe4e59403e34c7ff747abe4ff6abbc7718229556d7c1a5b93473fb53156c913b"
+      },
+      "/home/tigrow/tigrow/backend/typerest/node_modules/typescript/lib/lib.scripthost.d.ts": {
+        "version": "b9faa17292f17d2ad75e34fac77dd63a6403af1dba02d39cd0cbb9ffdf3de8b9",
+        "signature": "b9faa17292f17d2ad75e34fac77dd63a6403af1dba02d39cd0cbb9ffdf3de8b9"
+      },
+      "/home/tigrow/tigrow/backend/typerest/node_modules/typescript/lib/lib.es2015.core.d.ts": {
+        "version": "384f66a3422d80014c51de2682159bb26f1e35854029880ccd5f6d1f00e6a36d",
+        "signature": "384f66a3422d80014c51de2682159bb26f1e35854029880ccd5f6d1f00e6a36d"
+      },
+      "/home/tigrow/tigrow/backend/typerest/node_modules/typescript/lib/lib.es2015.collection.d.ts": {
+        "version": "dd94d8ef48c562389eb58af8df3a3a34d11367f7c818192aa5f16470d469e3f0",
+        "signature": "dd94d8ef48c562389eb58af8df3a3a34d11367f7c818192aa5f16470d469e3f0"
+      },
+      "/home/tigrow/tigrow/backend/typerest/node_modules/typescript/lib/lib.es2015.generator.d.ts": {
+        "version": "828413486bdcaa342558e8e4570b1b287b776cb61b4b70b0214bd10c5d9a94c3",
+        "signature": "828413486bdcaa342558e8e4570b1b287b776cb61b4b70b0214bd10c5d9a94c3"
+      },
+      "/home/tigrow/tigrow/backend/typerest/node_modules/typescript/lib/lib.es2015.iterable.d.ts": {
+        "version": "4d1f39313a169b8599b8817688f504b56ba8204c2ebafd03f66ff77ddb1899a4",
+        "signature": "4d1f39313a169b8599b8817688f504b56ba8204c2ebafd03f66ff77ddb1899a4"
+      },
+      "/home/tigrow/tigrow/backend/typerest/node_modules/typescript/lib/lib.es2015.promise.d.ts": {
+        "version": "7c07d934680d0e33275a44d22fb11a4ff31d46c8c26a8d056828a478753f1efe",
+        "signature": "7c07d934680d0e33275a44d22fb11a4ff31d46c8c26a8d056828a478753f1efe"
+      },
+      "/home/tigrow/tigrow/backend/typerest/node_modules/typescript/lib/lib.es2015.proxy.d.ts": {
+        "version": "5e72f949a89717db444e3bd9433468890068bb21a5638d8ab15a1359e05e54fe",
+        "signature": "5e72f949a89717db444e3bd9433468890068bb21a5638d8ab15a1359e05e54fe"
+      },
+      "/home/tigrow/tigrow/backend/typerest/node_modules/typescript/lib/lib.es2015.reflect.d.ts": {
+        "version": "f5b242136ae9bfb1cc99a5971cccc44e99947ae6b5ef6fd8aa54b5ade553b976",
+        "signature": "f5b242136ae9bfb1cc99a5971cccc44e99947ae6b5ef6fd8aa54b5ade553b976"
+      },
+      "/home/tigrow/tigrow/backend/typerest/node_modules/typescript/lib/lib.es2015.symbol.d.ts": {
+        "version": "9ae2860252d6b5f16e2026d8a2c2069db7b2a3295e98b6031d01337b96437230",
+        "signature": "9ae2860252d6b5f16e2026d8a2c2069db7b2a3295e98b6031d01337b96437230"
+      },
+      "/home/tigrow/tigrow/backend/typerest/node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts": {
+        "version": "3e0a459888f32b42138d5a39f706ff2d55d500ab1031e0988b5568b0f67c2303",
+        "signature": "3e0a459888f32b42138d5a39f706ff2d55d500ab1031e0988b5568b0f67c2303"
+      },
+      "/home/tigrow/tigrow/backend/typerest/node_modules/typescript/lib/lib.es2016.array.include.d.ts": {
+        "version": "3f96f1e570aedbd97bf818c246727151e873125d0512e4ae904330286c721bc0",
+        "signature": "3f96f1e570aedbd97bf818c246727151e873125d0512e4ae904330286c721bc0"
+      },
+      "/home/tigrow/tigrow/backend/typerest/node_modules/typescript/lib/lib.es2016.full.d.ts": {
+        "version": "a1205f8b74ba57896ae4eb9ff19a5ffc7f210352b0b535abcd36d6b06225a3ac",
+        "signature": "a1205f8b74ba57896ae4eb9ff19a5ffc7f210352b0b535abcd36d6b06225a3ac"
+      },
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/node/inspector.d.ts": {
+        "version": "71f5e4a14f2464935a7a244d614e9cf7fc312441d83188abc6b799ce5d051830",
+        "signature": "71f5e4a14f2464935a7a244d614e9cf7fc312441d83188abc6b799ce5d051830"
+      },
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/node/index.d.ts": {
+        "version": "a84838921dae2c38cdc5ecdfad24613fd1154c711c62df5581477ce8cf9113a5",
+        "signature": "a84838921dae2c38cdc5ecdfad24613fd1154c711c62df5581477ce8cf9113a5"
+      },
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/bson/index.d.ts": {
+        "version": "92c84d1e3b77898d09f4f1f36a12ca85f371a623d9f053bb4792587ae14ad564",
+        "signature": "92c84d1e3b77898d09f4f1f36a12ca85f371a623d9f053bb4792587ae14ad564"
+      },
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/mongodb/index.d.ts": {
+        "version": "5ba33349078ad4a9b3a76c4026cb42587937c56efdb426485a2960b69ef74b3e",
+        "signature": "5ba33349078ad4a9b3a76c4026cb42587937c56efdb426485a2960b69ef74b3e"
+      },
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/mongoose/index.d.ts": {
+        "version": "91c89dfe07544bafa4a239361266a2ba427c87061d7896865e6836d83168bd55",
+        "signature": "91c89dfe07544bafa4a239361266a2ba427c87061d7896865e6836d83168bd55"
+      },
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/dotenv/index.d.ts": {
+        "version": "9fe460fab563f49a7f51e7f5c38d5dd605a819fd6d0748df7ce5dc1a45eb896f",
+        "signature": "9fe460fab563f49a7f51e7f5c38d5dd605a819fd6d0748df7ce5dc1a45eb896f"
+      },
+      "/home/tigrow/tigrow/backend/typerest/src/config/env/index.ts": {
+        "version": "ed3a9d1774e13bda85511ece97a374d075dcb7a0a53cc6c54fe20f8319ec8763",
+        "signature": "ea36dfce38da93ce9b41dafc8d6c496a02576dacba4335728a2bfd1b9082261f"
+      },
+      "/home/tigrow/tigrow/backend/typerest/src/config/connection/connection.ts": {
+        "version": "d3f3a54b3640fd22af6e62168fad047733d5b22f102a46859c8045beced86481",
+        "signature": "ceba56faa5af9727495ccf722fb1d5824a08814351385b711dd6bd61dd89eaa4"
+      },
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/range-parser/index.d.ts": {
+        "version": "4e88b833be14c7f384e0dcd57bb30acd799e8e34d212635d693e41a75a71164b",
+        "signature": "4e88b833be14c7f384e0dcd57bb30acd799e8e34d212635d693e41a75a71164b"
+      },
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/express-serve-static-core/index.d.ts": {
+        "version": "88300a14933efa862bf68f8444082c7ce0cfb23f67b3eeaf1575933a1ce84b3d",
+        "signature": "88300a14933efa862bf68f8444082c7ce0cfb23f67b3eeaf1575933a1ce84b3d"
+      },
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/mime/index.d.ts": {
+        "version": "be27a64e821a3e5af838650e4aa25805c60f057d0c37a9762c378d19d364b3e6",
+        "signature": "be27a64e821a3e5af838650e4aa25805c60f057d0c37a9762c378d19d364b3e6"
+      },
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/serve-static/index.d.ts": {
+        "version": "cdbae5083ef8f786069519405ca1f1e2ce72b9efebdf5e1931584fba747f3bc0",
+        "signature": "cdbae5083ef8f786069519405ca1f1e2ce72b9efebdf5e1931584fba747f3bc0"
+      },
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/body-parser/index.d.ts": {
+        "version": "d49347480b7fd78dbccae358c3a5e4788e73003f60bd8206d70ce0fc69473100",
+        "signature": "d49347480b7fd78dbccae358c3a5e4788e73003f60bd8206d70ce0fc69473100"
+      },
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/express/index.d.ts": {
+        "version": "c8af41c4f901ffa94802e7aaf757843ea647ff56f87a4c177019d1eddcfba158",
+        "signature": "c8af41c4f901ffa94802e7aaf757843ea647ff56f87a4c177019d1eddcfba158"
+      },
+      "/home/tigrow/tigrow/backend/typerest/src/config/error/index.ts": {
+        "version": "1ac94223f06c064be3323ef7b354d59142759585e2a770a91d16ac5a62ed4614",
+        "signature": "56ea9dd4423e0acb231d5c983569e45ec045a6fcdca8da08425340273ecf74c5"
+      },
+      "/home/tigrow/tigrow/backend/typerest/src/config/error/sendHttpError.ts": {
+        "version": "792ace5614c1eb21d696f09d2456a78e9e3ee408b3de651ccdc1ee34c436cb1b",
+        "signature": "ffbc3eaaac8d8dd514a8a9e94ca41e7e69e626af637def57d305dcd3a5e957bb"
+      },
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/jsonwebtoken/index.d.ts": {
+        "version": "daef0ff8d0878f91f68abfdb51e82a5df5b5bc9fc665202e0bd45ddefe640fa2",
+        "signature": "daef0ff8d0878f91f68abfdb51e82a5df5b5bc9fc665202e0bd45ddefe640fa2"
+      },
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/compression/index.d.ts": {
+        "version": "96540c10532f7cab762185084744738f504244164689dfa11c140008cc321177",
+        "signature": "96540c10532f7cab762185084744738f504244164689dfa11c140008cc321177"
+      },
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/cookie-parser/index.d.ts": {
+        "version": "a1df8fab03cc0f18714669348226e0edf320cd0ac6771a8c2b23abe97f1867e2",
+        "signature": "a1df8fab03cc0f18714669348226e0edf320cd0ac6771a8c2b23abe97f1867e2"
+      },
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/cors/index.d.ts": {
+        "version": "cfec7dcfe975a012ff392fd708aff3cc069658a5add9623a539c9b90fffea13b",
+        "signature": "cfec7dcfe975a012ff392fd708aff3cc069658a5add9623a539c9b90fffea13b"
+      },
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/morgan/index.d.ts": {
+        "version": "caf53e071bb7f68cebd6a1d8d63a8c6e8a4472da65ee7620014f58f7dc984d42",
+        "signature": "caf53e071bb7f68cebd6a1d8d63a8c6e8a4472da65ee7620014f58f7dc984d42"
+      },
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/sonic-boom/index.d.ts": {
+        "version": "6132950b1b7373161398abc9420d3b1cd626b7e2a3e4f510e245d527cf040dde",
+        "signature": "6132950b1b7373161398abc9420d3b1cd626b7e2a3e4f510e245d527cf040dde"
+      },
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/pino-std-serializers/index.d.ts": {
+        "version": "9bdd7c972e76774fa277d21b9d9a9050751bd3d55ba7da7fd7a5c0216ee880c3",
+        "signature": "9bdd7c972e76774fa277d21b9d9a9050751bd3d55ba7da7fd7a5c0216ee880c3"
+      },
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/pino/index.d.ts": {
+        "version": "9a6679905b3fa7f5d961aa5dc3800351bf7887a033cee39e28fbbe1ea718e947",
+        "signature": "9a6679905b3fa7f5d961aa5dc3800351bf7887a033cee39e28fbbe1ea718e947"
+      },
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/pino-http/index.d.ts": {
+        "version": "e586d00a4c0f6b05e017a8fd5688d4ff0b6249dbb586a5607e9162f127259b78",
+        "signature": "e586d00a4c0f6b05e017a8fd5688d4ff0b6249dbb586a5607e9162f127259b78"
+      },
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/express-pino-logger/index.d.ts": {
+        "version": "171922baa53916a5d2439fd0ef3c6070c059fa9f25273ff16d6c201422da7fe8",
+        "signature": "171922baa53916a5d2439fd0ef3c6070c059fa9f25273ff16d6c201422da7fe8"
+      },
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/helmet/index.d.ts": {
+        "version": "795a0958063e8ea522b600a6a1a615bc1f53da814670af36b6470f5c0fd81ef1",
+        "signature": "795a0958063e8ea522b600a6a1a615bc1f53da814670af36b6470f5c0fd81ef1"
+      },
+      "/home/tigrow/tigrow/backend/typerest/src/config/middleware/middleware.ts": {
+        "version": "96f5651e21ea0f14e30d660af4d92fb7b77a038affc061d5cd3f4edeaed3d528",
+        "signature": "41f0c5d94d17b1801bfb3fdc323654d60517ff2310c72bfe9f203f5757da2ccd"
+      },
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/swagger-ui-express/index.d.ts": {
+        "version": "074dedf5e15219ad2c7451833e271211e8cb7c4c849d782153b0a74dfaeb96d2",
+        "signature": "074dedf5e15219ad2c7451833e271211e8cb7c4c849d782153b0a74dfaeb96d2"
+      },
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/joi/index.d.ts": {
+        "version": "3fd0795cae2cca625520531ae0761448818555759a63d24cd2c9ac157b9a6755",
+        "signature": "3fd0795cae2cca625520531ae0761448818555759a63d24cd2c9ac157b9a6755"
+      },
+      "/home/tigrow/tigrow/backend/typerest/src/modules/validation.ts": {
+        "version": "1e825380190b557cf2da1229534a4151bc87530a07e753b47ccfa7fbafd4234a",
+        "signature": "265d27fe2e659b3624cab569e0cf988cb748b678c8b4dd1a0e9822ed2a20b465"
+      },
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/bcrypt/index.d.ts": {
+        "version": "18b9a9702d2fc7d3766b0c8124133c761ad25a9d767925005777eb2c2cd8aeba",
+        "signature": "18b9a9702d2fc7d3766b0c8124133c761ad25a9d767925005777eb2c2cd8aeba"
+      },
+      "/home/tigrow/tigrow/backend/typerest/src/modules/user/user.model.ts": {
+        "version": "6dc940e9843f64b617fd7b5cf09bc8bce7e739f342834040d7d6d761e028ecb8",
+        "signature": "16c6f1058ba0f5c34a530bdf57aae7c9edf1e161b8c034609580f667131f5062"
+      },
+      "/home/tigrow/tigrow/backend/typerest/src/modules/auth/auth.validation.ts": {
+        "version": "3303d3e8fc60c69ac9bf7fcacde4a3084c1282a13daabfe2c94724b637180963",
+        "signature": "d91ef7e388780dc416f3229bc1995e9bf9a477659e192909fcb76dcecb874bd4"
+      },
+      "/home/tigrow/tigrow/backend/typerest/src/modules/auth/auth.interface.ts": {
+        "version": "6bdb9010a6f595ff1e021b97b57767ec1b948b1e1ed1b2ba2a6fb26e22a48196",
+        "signature": "d425cdd9dfa81463fcfc4ed32d1dfa8072d31927cdd4b2c224fdbf7b21393bff"
+      },
+      "/home/tigrow/tigrow/backend/typerest/src/modules/auth/auth.service.ts": {
+        "version": "4865229f42ec37dc8bfc22f2edf2f9358c823f205356ce88c7ce9e2b97c83fcf",
+        "signature": "98c4b33473048afa7456762dd784afdb78e23e33fb9d364dc93d5c952f588f85"
+      },
+      "/home/tigrow/tigrow/backend/typerest/src/modules/auth/auth.controller.ts": {
+        "version": "c3199c41678e9baa57855bda3b6018048aaa04a688efc56f0ee100da905bb883",
+        "signature": "4841c9c4cfab837336502c9a2603de0d06755782131cf257ef8c64fac899d818"
+      },
+      "/home/tigrow/tigrow/backend/typerest/src/modules/user/user.validation.ts": {
+        "version": "477a6d3fec15203a9084abbd65efd9db7b8304d8e1c8d29f0fafb0d479eef775",
+        "signature": "4523fd2225900339e1d8759287438720da7b7cc112810a07718438af23930746"
+      },
+      "/home/tigrow/tigrow/backend/typerest/src/modules/user/user.interface.ts": {
+        "version": "3ad67e859ac7abcfbda1b21cf9fc0b832ab82ce2d4857d7baf494c2246db5b13",
+        "signature": "c20f140a634aa13e7889147c61182b56c9e89a7b1be769fbf16e7f67a79f9c76"
+      },
+      "/home/tigrow/tigrow/backend/typerest/src/modules/user/user.service.ts": {
+        "version": "cf04ea4ceb2f4e6938d4d9f6ddf95e6b994eb9c6c5145fbbcc1423461c9476a6",
+        "signature": "920ee829f072314fa77c64b85b6de955fe4928d0db8ec0afbbf80f096df79b3e"
+      },
+      "/home/tigrow/tigrow/backend/typerest/src/modules/user/user.controller.ts": {
+        "version": "ee89031bfb6d34c8bdc77c18c089f7e9cfa3b75ce78c1075a09b558b27b96d02",
+        "signature": "250363177907ff4198157b677b8e1b9e0619f7bf3012d992b3e89751555d2d53"
+      },
+      "/home/tigrow/tigrow/backend/typerest/src/modules/index.ts": {
+        "version": "165421d1b7a678a8d18658e2417665b6073b815c02fd3e0858dba0798d483bc6",
+        "signature": "8504cf9f686737cdcf06b3cdd23bf49bf76cf6500b8100e8ab988437fc82a77d"
+      },
+      "/home/tigrow/tigrow/backend/typerest/src/modules/auth/auth.route.ts": {
+        "version": "3d87c52480e82e51b9d32291b43388311a71a85d3e4d4c6c010ab1357c69815a",
+        "signature": "ca82927e98946cea82eaa3cec3020222db41063dd068f6b26c36afaa65fac81a"
+      },
+      "/home/tigrow/tigrow/backend/typerest/src/modules/user/user.route.ts": {
+        "version": "28750337cf75e4d764e22792333821d9066157cb60843f92200632740d4764ea",
+        "signature": "ca82927e98946cea82eaa3cec3020222db41063dd068f6b26c36afaa65fac81a"
+      },
+      "/home/tigrow/tigrow/backend/typerest/src/modules/route.ts": {
+        "version": "3b79f367569d497b71545536952fbececb1137a7ef2721b441c3bfd50c204bc8",
+        "signature": "ad5fde2806c0f35e21b2a37570886812c46eee6d9bc368dff400b1d06fdbfd96"
+      },
+      "/home/tigrow/tigrow/backend/typerest/src/config/server/server.ts": {
+        "version": "c70ec6cd4544b254cba045c809a9d998c638f1bd46b2ddd901a11a68ecc48919",
+        "signature": "9bfce1e47ca34ca1d7c57741dc4997d9caa542fb2586374a993fa6e0da1534f0"
+      },
+      "/home/tigrow/tigrow/backend/typerest/src/config/middleware/jwtAuth.ts": {
+        "version": "1de05bccd4706615e2152a11278872a0fbf2ca1be73d7ba78c2f9ffa3ae3d46a",
+        "signature": "c331d8140a71569cab79912f4d207f6f20c2c922fe68a8349a1f10f5dd88e7cc"
+      },
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/debug/index.d.ts": {
+        "version": "58b8b686305f7cdb67e77153c7a673e6f2e583f8fa4ebd2a2062fc1702c20191",
+        "signature": "58b8b686305f7cdb67e77153c7a673e6f2e583f8fa4ebd2a2062fc1702c20191"
+      },
+      "/home/tigrow/tigrow/backend/typerest/src/config/server/serverHandlers.ts": {
+        "version": "b7f4955245d92d050a5b6b18b97d6ca461ade3391a9ccc809323075eaadf69a8",
+        "signature": "8ed32b99c0de377ddb6d28c569603215e25806a8b005273efc3285d3187ebeac"
+      },
+      "/home/tigrow/tigrow/backend/typerest/src/config/server/index.ts": {
+        "version": "bb1897b0da987b8c5ba8450cba1035ca558ff578b195f3fd7d51f9e95ae623f1",
+        "signature": "8e609bb71c20b858c77f0e9f90bb1319db8477b13f9f965f1a1e18524bf50881"
+      },
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@babel/types/lib/index.d.ts": {
+        "version": "9cebab89871446e2e9f2c8599cb22696c08207cf5bc21adb8f9752d582c5055e",
+        "signature": "9cebab89871446e2e9f2c8599cb22696c08207cf5bc21adb8f9752d582c5055e"
+      },
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/babel__generator/index.d.ts": {
+        "version": "b25c5f2970d06c729f464c0aeaa64b1a5b5f1355aa93554bb5f9c199b8624b1e",
+        "signature": "b25c5f2970d06c729f464c0aeaa64b1a5b5f1355aa93554bb5f9c199b8624b1e"
+      },
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/babel__traverse/index.d.ts": {
+        "version": "3db699e002d857ea05942e0b19b5091919fa5d01c21ea789c74763c9a81bb28f",
+        "signature": "3db699e002d857ea05942e0b19b5091919fa5d01c21ea789c74763c9a81bb28f"
+      },
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@babel/parser/typings/babel-parser.d.ts": {
+        "version": "56dede90729ef85351f132d66e05510851211d627e2f2c6621475d4f7938f365",
+        "signature": "56dede90729ef85351f132d66e05510851211d627e2f2c6621475d4f7938f365"
+      },
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/babel__template/index.d.ts": {
+        "version": "3e0a34f7207431d967dc32d593d1cda0c23975e9484bc8895b39d96ffca4a0d8",
+        "signature": "3e0a34f7207431d967dc32d593d1cda0c23975e9484bc8895b39d96ffca4a0d8"
+      },
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/babel__core/index.d.ts": {
+        "version": "8b6748f9e15ad7bac494dc3cd3b13ba0a8be195aca97f7c10a96b1c74a956f32",
+        "signature": "8b6748f9e15ad7bac494dc3cd3b13ba0a8be195aca97f7c10a96b1c74a956f32"
+      },
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/chai/index.d.ts": {
+        "version": "c465afa89ac28f74167a2ee7c3c6eb8dd1245c2b3bdaa4704d58d35b932de4b7",
+        "signature": "c465afa89ac28f74167a2ee7c3c6eb8dd1245c2b3bdaa4704d58d35b932de4b7"
+      },
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/cookiejar/index.d.ts": {
+        "version": "16b7fb094ffaa5d270f934e7406e8baee2f8245cfabf6dcc20f693389f005f56",
+        "signature": "16b7fb094ffaa5d270f934e7406e8baee2f8245cfabf6dcc20f693389f005f56"
+      },
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/ejs/index.d.ts": {
+        "version": "b5c1f409cda5dd6e088ee18ffe0bcd67e0b61f541ecdb28dafd946265552c574",
+        "signature": "b5c1f409cda5dd6e088ee18ffe0bcd67e0b61f541ecdb28dafd946265552c574"
+      },
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Subscription.d.ts": {
+        "version": "6cb35d83d21a7e72bd00398c93302749bcd38349d0cc5e76ff3a90c6d1498a4d",
+        "signature": "6cb35d83d21a7e72bd00398c93302749bcd38349d0cc5e76ff3a90c6d1498a4d"
+      },
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/types.d.ts": {
+        "version": "051451ceae7f29c8f17b810e6a6d8d270c67b401866f487cdc50c5c1a8b3f511",
+        "signature": "051451ceae7f29c8f17b810e6a6d8d270c67b401866f487cdc50c5c1a8b3f511"
+      },
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Subscriber.d.ts": {
+        "version": "2632057d8b983ee33295566088c080384d7d69a492bc60b008d6a6dfd3508d6b",
+        "signature": "2632057d8b983ee33295566088c080384d7d69a492bc60b008d6a6dfd3508d6b"
+      },
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Operator.d.ts": {
+        "version": "4bf71cf2a94492fc71e97800bdf2bcb0a9a0fa5fce921c8fe42c67060780cbfa",
+        "signature": "4bf71cf2a94492fc71e97800bdf2bcb0a9a0fa5fce921c8fe42c67060780cbfa"
+      },
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/observable/iif.d.ts": {
+        "version": "9fb139142e017f92d67cb0d158dec9c915a57d9b516bf291aed5d55de172493a",
+        "signature": "9fb139142e017f92d67cb0d158dec9c915a57d9b516bf291aed5d55de172493a"
+      },
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/observable/throwError.d.ts": {
+        "version": "5c492d01a19fea5ebfff9d27e786bc533e5078909521ca17ae41236f16f9686a",
+        "signature": "5c492d01a19fea5ebfff9d27e786bc533e5078909521ca17ae41236f16f9686a"
+      },
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Observable.d.ts": {
+        "version": "a6ee930b81c65ec79aca49025b797817dde6f2d2e9b0e0106f0844e18e2cc819",
+        "signature": "a6ee930b81c65ec79aca49025b797817dde6f2d2e9b0e0106f0844e18e2cc819"
+      },
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Subject.d.ts": {
+        "version": "84fce15473e993e6b656db9dd3c9196b80f545647458e6621675e840fd700d29",
+        "signature": "84fce15473e993e6b656db9dd3c9196b80f545647458e6621675e840fd700d29"
+      },
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/observable/ConnectableObservable.d.ts": {
+        "version": "7d5336ee766aa72dffb1cc2a515f61d18a4fb61b7a2757cbccfb7b286b783dfb",
+        "signature": "7d5336ee766aa72dffb1cc2a515f61d18a4fb61b7a2757cbccfb7b286b783dfb"
+      },
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/operators/groupBy.d.ts": {
+        "version": "63e96248ab63f6e7a86e31aa3e654ed6de1c3f99e3b668e04800df05874e8b77",
+        "signature": "63e96248ab63f6e7a86e31aa3e654ed6de1c3f99e3b668e04800df05874e8b77"
+      },
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/symbol/observable.d.ts": {
+        "version": "ed164267a8b206892d69768f51e6e7157ad0a6e89745fbd39f3e81c4700e9a9e",
+        "signature": "ed164267a8b206892d69768f51e6e7157ad0a6e89745fbd39f3e81c4700e9a9e"
+      },
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/BehaviorSubject.d.ts": {
+        "version": "06a20cc7d937074863861ea1159ac783ff97b13952b4b5d1811c7d8ab5c94776",
+        "signature": "06a20cc7d937074863861ea1159ac783ff97b13952b4b5d1811c7d8ab5c94776"
+      },
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/ReplaySubject.d.ts": {
+        "version": "ab6de4af0e293eae73b67dad251af097d7bcc0b8b62de84e3674e831514cb056",
+        "signature": "ab6de4af0e293eae73b67dad251af097d7bcc0b8b62de84e3674e831514cb056"
+      },
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/AsyncSubject.d.ts": {
+        "version": "18cbd79079af97af66c9c07c61b481fce14a4e7282eca078c474b40c970ba1d0",
+        "signature": "18cbd79079af97af66c9c07c61b481fce14a4e7282eca078c474b40c970ba1d0"
+      },
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Scheduler.d.ts": {
+        "version": "e7b45405689d87e745a217b648d3646fb47a6aaba9c8d775204de90c7ea9ff35",
+        "signature": "e7b45405689d87e745a217b648d3646fb47a6aaba9c8d775204de90c7ea9ff35"
+      },
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/scheduler/Action.d.ts": {
+        "version": "669b754ec246dd7471e19b655b73bda6c2ca5bb7ccb1a4dff44a9ae45b6a716a",
+        "signature": "669b754ec246dd7471e19b655b73bda6c2ca5bb7ccb1a4dff44a9ae45b6a716a"
+      },
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/scheduler/AsyncScheduler.d.ts": {
+        "version": "bcfaca4a8ff50f57fd36df91fba5d34056883f213baff7192cbfc4d3805d2084",
+        "signature": "bcfaca4a8ff50f57fd36df91fba5d34056883f213baff7192cbfc4d3805d2084"
+      },
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/scheduler/AsyncAction.d.ts": {
+        "version": "76a564b360b267502219a89514953058494713ee0923a63b2024e542c18b40e5",
+        "signature": "76a564b360b267502219a89514953058494713ee0923a63b2024e542c18b40e5"
+      },
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/scheduler/AsapScheduler.d.ts": {
+        "version": "8f62cbd3afbd6a07bb8c934294b6bfbe437021b89e53a4da7de2648ecfc7af25",
+        "signature": "8f62cbd3afbd6a07bb8c934294b6bfbe437021b89e53a4da7de2648ecfc7af25"
+      },
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/scheduler/asap.d.ts": {
+        "version": "c586a0e66183dd76fa9324e9b95bac89d959f92094de6f935f64baf34291bead",
+        "signature": "c586a0e66183dd76fa9324e9b95bac89d959f92094de6f935f64baf34291bead"
+      },
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/scheduler/async.d.ts": {
+        "version": "e124a70dabc0309927d45dce2ae9de70f951dce0b520c4382a740d18075a9533",
+        "signature": "e124a70dabc0309927d45dce2ae9de70f951dce0b520c4382a740d18075a9533"
+      },
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/scheduler/QueueScheduler.d.ts": {
+        "version": "8e7a5b8f867b99cc8763c0b024068fb58e09f7da2c4810c12833e1ca6eb11c4f",
+        "signature": "8e7a5b8f867b99cc8763c0b024068fb58e09f7da2c4810c12833e1ca6eb11c4f"
+      },
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/scheduler/queue.d.ts": {
+        "version": "91ddde7ec68545fa696fd27b9e38c0b2f1c180a26dbf229348808c4674f6398f",
+        "signature": "91ddde7ec68545fa696fd27b9e38c0b2f1c180a26dbf229348808c4674f6398f"
+      },
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/scheduler/AnimationFrameScheduler.d.ts": {
+        "version": "df877050b04c29b9f8409aa10278d586825f511f0841d1ec41b6554f8362092b",
+        "signature": "df877050b04c29b9f8409aa10278d586825f511f0841d1ec41b6554f8362092b"
+      },
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/scheduler/animationFrame.d.ts": {
+        "version": "65b8e0c3dea43e760f7887db1139774a1c9097e78b5f73f497cd12e71b7d377e",
+        "signature": "65b8e0c3dea43e760f7887db1139774a1c9097e78b5f73f497cd12e71b7d377e"
+      },
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/scheduler/VirtualTimeScheduler.d.ts": {
+        "version": "5443113a16ef378446e08d6500bb48b35de582426459abdb5c9704f5c7d327d9",
+        "signature": "5443113a16ef378446e08d6500bb48b35de582426459abdb5c9704f5c7d327d9"
+      },
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Notification.d.ts": {
+        "version": "0fb581ecb53304a3c95bb930160b4fa610537470cce850371cbaad5a458ca0d9",
+        "signature": "0fb581ecb53304a3c95bb930160b4fa610537470cce850371cbaad5a458ca0d9"
+      },
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/util/pipe.d.ts": {
+        "version": "7da4e290c009d7967343a7f8c3f145a3d2c157c62483362183ba9f637a536489",
+        "signature": "7da4e290c009d7967343a7f8c3f145a3d2c157c62483362183ba9f637a536489"
+      },
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/util/noop.d.ts": {
+        "version": "eb21ddc3a8136a12e69176531197def71dc28ffaf357b74d4bf83407bd845991",
+        "signature": "eb21ddc3a8136a12e69176531197def71dc28ffaf357b74d4bf83407bd845991"
+      },
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/util/identity.d.ts": {
+        "version": "914560d0c4c6aa947cfe7489fe970c94ba25383c414bbe0168b44fd20dbf0df4",
+        "signature": "914560d0c4c6aa947cfe7489fe970c94ba25383c414bbe0168b44fd20dbf0df4"
+      },
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/util/isObservable.d.ts": {
+        "version": "4fb3405055b54566dea2135845c3a776339e7e170d692401d97fd41ad9a20e5d",
+        "signature": "4fb3405055b54566dea2135845c3a776339e7e170d692401d97fd41ad9a20e5d"
+      },
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/util/ArgumentOutOfRangeError.d.ts": {
+        "version": "8d607832a6ef0eac30657173441367dd76c96bf7800d77193428b922e060c3af",
+        "signature": "8d607832a6ef0eac30657173441367dd76c96bf7800d77193428b922e060c3af"
+      },
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/util/EmptyError.d.ts": {
+        "version": "20ff7207f0bb5cdde5fee8e83315ade7e5b8100cfa2087d20d39069a3d7d06f4",
+        "signature": "20ff7207f0bb5cdde5fee8e83315ade7e5b8100cfa2087d20d39069a3d7d06f4"
+      },
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/util/ObjectUnsubscribedError.d.ts": {
+        "version": "7ca4c534eab7cff43d81327e369a23464bc37ef38ce5337ceff24a42c6c84eb2",
+        "signature": "7ca4c534eab7cff43d81327e369a23464bc37ef38ce5337ceff24a42c6c84eb2"
+      },
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/util/UnsubscriptionError.d.ts": {
+        "version": "5252dec18a34078398be4e321dee884dc7f47930e5225262543a799b591b36d2",
+        "signature": "5252dec18a34078398be4e321dee884dc7f47930e5225262543a799b591b36d2"
+      },
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/util/TimeoutError.d.ts": {
+        "version": "23caed4dff98bd28157d2b798b43f1dfefe727f18641648c01ce4e0e929a1630",
+        "signature": "23caed4dff98bd28157d2b798b43f1dfefe727f18641648c01ce4e0e929a1630"
+      },
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/observable/bindCallback.d.ts": {
+        "version": "f67e013d5374826596d7c23dbae1cdb14375a27cd72e16c5fb46a4b445059329",
+        "signature": "f67e013d5374826596d7c23dbae1cdb14375a27cd72e16c5fb46a4b445059329"
+      },
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/observable/bindNodeCallback.d.ts": {
+        "version": "ea3401b70e2302683bbf4c18b69ef2292b60f4d8f8e6d920413b81fb7bde0f65",
+        "signature": "ea3401b70e2302683bbf4c18b69ef2292b60f4d8f8e6d920413b81fb7bde0f65"
+      },
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/InnerSubscriber.d.ts": {
+        "version": "71afe26642c0fb86b9f8b1af4af5deb5181b43b6542a3ff2314871b53d04c749",
+        "signature": "71afe26642c0fb86b9f8b1af4af5deb5181b43b6542a3ff2314871b53d04c749"
+      },
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/OuterSubscriber.d.ts": {
+        "version": "0d7f01634e6234d84cf0106508efdb8ae00e5ed126eff9606d37b031ac1de654",
+        "signature": "0d7f01634e6234d84cf0106508efdb8ae00e5ed126eff9606d37b031ac1de654"
+      },
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/observable/combineLatest.d.ts": {
+        "version": "1571e40de593d48983b09fbf798c7ed7f2fb0e45c2a004ca172973880fa01ebc",
+        "signature": "1571e40de593d48983b09fbf798c7ed7f2fb0e45c2a004ca172973880fa01ebc"
+      },
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/observable/concat.d.ts": {
+        "version": "3ad003278d569d1953779e2f838f7798f02e793f6a1eceac8e0065f1a202669b",
+        "signature": "3ad003278d569d1953779e2f838f7798f02e793f6a1eceac8e0065f1a202669b"
+      },
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/observable/defer.d.ts": {
+        "version": "fb2c5eceffcd918dbb86332afa0199f5e7b6cf6ee42809e930a827b28ef25afe",
+        "signature": "fb2c5eceffcd918dbb86332afa0199f5e7b6cf6ee42809e930a827b28ef25afe"
+      },
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/observable/empty.d.ts": {
+        "version": "f664aaff6a981eeca68f1ff2d9fd21b6664f47bf45f3ae19874df5a6683a8d8a",
+        "signature": "f664aaff6a981eeca68f1ff2d9fd21b6664f47bf45f3ae19874df5a6683a8d8a"
+      },
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/observable/forkJoin.d.ts": {
+        "version": "ce066f85d73e09e9adbd0049bcf6471c7eefbfc2ec4b5692b5bcef1e36babd2a",
+        "signature": "ce066f85d73e09e9adbd0049bcf6471c7eefbfc2ec4b5692b5bcef1e36babd2a"
+      },
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/observable/from.d.ts": {
+        "version": "09d302513cacfbcc54b67088739bd8ac1c3c57917f83f510b2d1adcb99fd7d2a",
+        "signature": "09d302513cacfbcc54b67088739bd8ac1c3c57917f83f510b2d1adcb99fd7d2a"
+      },
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/observable/fromEvent.d.ts": {
+        "version": "3faa54e978b92a6f726440c13fe3ab35993dc74d697c7709681dc1764a25219f",
+        "signature": "3faa54e978b92a6f726440c13fe3ab35993dc74d697c7709681dc1764a25219f"
+      },
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/observable/fromEventPattern.d.ts": {
+        "version": "2bd0489e968925eb0c4c0fb12ef090be5165c86bd088e1e803102c38d4a717d8",
+        "signature": "2bd0489e968925eb0c4c0fb12ef090be5165c86bd088e1e803102c38d4a717d8"
+      },
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/observable/generate.d.ts": {
+        "version": "88924207132b9ba339c1adb1ed3ea07e47b3149ff8a2e21a3ea1f91cee68589d",
+        "signature": "88924207132b9ba339c1adb1ed3ea07e47b3149ff8a2e21a3ea1f91cee68589d"
+      },
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/observable/interval.d.ts": {
+        "version": "b8800b93d8ab532f8915be73f8195b9d4ef06376d8a82e8cdc17c400553172d6",
+        "signature": "b8800b93d8ab532f8915be73f8195b9d4ef06376d8a82e8cdc17c400553172d6"
+      },
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/observable/merge.d.ts": {
+        "version": "d7d469703b78beba76d511957f8c8b534c3bbb02bea7ab4705c65ef573532fb8",
+        "signature": "d7d469703b78beba76d511957f8c8b534c3bbb02bea7ab4705c65ef573532fb8"
+      },
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/observable/never.d.ts": {
+        "version": "74c8c3057669c03264263d911d0f82e876cef50b05be21c54fef23c900de0420",
+        "signature": "74c8c3057669c03264263d911d0f82e876cef50b05be21c54fef23c900de0420"
+      },
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/observable/of.d.ts": {
+        "version": "b303eda2ff2d582a9c3c5ecb708fb57355cdc25e8c8197a9f66d4d1bf09fda19",
+        "signature": "b303eda2ff2d582a9c3c5ecb708fb57355cdc25e8c8197a9f66d4d1bf09fda19"
+      },
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/observable/onErrorResumeNext.d.ts": {
+        "version": "4e5dc89fa22ff43da3dee1db97d5add0591ebaff9e4adef6c8b6f0b41f0f60f0",
+        "signature": "4e5dc89fa22ff43da3dee1db97d5add0591ebaff9e4adef6c8b6f0b41f0f60f0"
+      },
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/observable/pairs.d.ts": {
+        "version": "ec4e82cb42a902fe83dc13153c7a260bee95684541f8d7ef26cb0629a2f4ca31",
+        "signature": "ec4e82cb42a902fe83dc13153c7a260bee95684541f8d7ef26cb0629a2f4ca31"
+      },
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/observable/partition.d.ts": {
+        "version": "5f36e24cd92b0ff3e2a243685a8a780c9413941c36739f04b428cc4e15de629d",
+        "signature": "5f36e24cd92b0ff3e2a243685a8a780c9413941c36739f04b428cc4e15de629d"
+      },
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/observable/race.d.ts": {
+        "version": "9200f1759b84cc96ffd483ea718fa9db83567a0393c5598a53ca5f22284795d5",
+        "signature": "9200f1759b84cc96ffd483ea718fa9db83567a0393c5598a53ca5f22284795d5"
+      },
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/observable/range.d.ts": {
+        "version": "208e125b45bc561765a74f6f1019d88e44e94678769824cf93726e1bac457961",
+        "signature": "208e125b45bc561765a74f6f1019d88e44e94678769824cf93726e1bac457961"
+      },
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/observable/timer.d.ts": {
+        "version": "b3985971de086ef3aa698ef19009a53527b72e65851b782dc188ac341a1e1390",
+        "signature": "b3985971de086ef3aa698ef19009a53527b72e65851b782dc188ac341a1e1390"
+      },
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/observable/using.d.ts": {
+        "version": "c81d421aabb6113cd98b9d4f11e9a03273b363b841f294b457f37c15d513151d",
+        "signature": "c81d421aabb6113cd98b9d4f11e9a03273b363b841f294b457f37c15d513151d"
+      },
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/observable/zip.d.ts": {
+        "version": "1f26af7308d6d7adaa4656de4da9c5bc0593cdcfcf7da8b5ee8cebd9aad981f4",
+        "signature": "1f26af7308d6d7adaa4656de4da9c5bc0593cdcfcf7da8b5ee8cebd9aad981f4"
+      },
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/scheduled/scheduled.d.ts": {
+        "version": "c05d4cae0bceed02c9d013360d3e65658297acb1b7a90252fe366f2bf4f9ccc9",
+        "signature": "c05d4cae0bceed02c9d013360d3e65658297acb1b7a90252fe366f2bf4f9ccc9"
+      },
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/config.d.ts": {
+        "version": "6f14b92848889abba03a474e0750f7350cc91fc190c107408ca48679a03975ae",
+        "signature": "6f14b92848889abba03a474e0750f7350cc91fc190c107408ca48679a03975ae"
+      },
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/index.d.ts": {
+        "version": "41249bfce2b6ec504f2b83fd6704194277e264b13f1b896550f60dc6f98b36a3",
+        "signature": "41249bfce2b6ec504f2b83fd6704194277e264b13f1b896550f60dc6f98b36a3"
+      },
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/through/index.d.ts": {
+        "version": "2d846db276696838aaabdc3c974419d66ab9f866d19cdc869cfb6ecff6754c01",
+        "signature": "2d846db276696838aaabdc3c974419d66ab9f866d19cdc869cfb6ecff6754c01"
+      },
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/lib/objects/choice.d.ts": {
+        "version": "5d2651c679f59706bf484e7d423f0ec2d9c79897e2e68c91a3f582f21328d193",
+        "signature": "5d2651c679f59706bf484e7d423f0ec2d9c79897e2e68c91a3f582f21328d193"
+      },
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/lib/objects/separator.d.ts": {
+        "version": "30d49e69cb62f350ff0bc5dda1c557429c425014955c19c557f101c0de9272e7",
+        "signature": "30d49e69cb62f350ff0bc5dda1c557429c425014955c19c557f101c0de9272e7"
+      },
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/lib/objects/choices.d.ts": {
+        "version": "d3747dbed45540212e9a906c2fb8b5beb691f2cd0861af58a66dc01871004f38",
+        "signature": "d3747dbed45540212e9a906c2fb8b5beb691f2cd0861af58a66dc01871004f38"
+      },
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/lib/utils/screen-manager.d.ts": {
+        "version": "05a21cbb7cbe1ec502e7baca1f4846a4e860d96bad112f3e316b995ba99715b7",
+        "signature": "05a21cbb7cbe1ec502e7baca1f4846a4e860d96bad112f3e316b995ba99715b7"
+      },
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/lib/prompts/base.d.ts": {
+        "version": "1eaee2b52f1c0e1848845a79050c1d06ae554d8050c35e3bf479f13d6ee19dd5",
+        "signature": "1eaee2b52f1c0e1848845a79050c1d06ae554d8050c35e3bf479f13d6ee19dd5"
+      },
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/lib/utils/paginator.d.ts": {
+        "version": "fd219904eea67c470dfebbaf44129b0db858207c3c3b55514bdc84de547b1687",
+        "signature": "fd219904eea67c470dfebbaf44129b0db858207c3c3b55514bdc84de547b1687"
+      },
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/lib/prompts/checkbox.d.ts": {
+        "version": "4de232968f584b960b4101b4cdae593456aff149c5d0c70c2389248e9eb9fbac",
+        "signature": "4de232968f584b960b4101b4cdae593456aff149c5d0c70c2389248e9eb9fbac"
+      },
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/lib/prompts/confirm.d.ts": {
+        "version": "933c42f6ed2768265dfb42faa817ce8d902710c57a21a1859a9c3fe5e985080e",
+        "signature": "933c42f6ed2768265dfb42faa817ce8d902710c57a21a1859a9c3fe5e985080e"
+      },
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/lib/prompts/editor.d.ts": {
+        "version": "c5430542eeebb207d651e8b00a08e4bb680c47ecb73dd388d8fa597a1fc5de5b",
+        "signature": "c5430542eeebb207d651e8b00a08e4bb680c47ecb73dd388d8fa597a1fc5de5b"
+      },
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/lib/prompts/expand.d.ts": {
+        "version": "a6c5c9906262cf10549989c0061e5a44afdc1f61da77d5e09418a9ecea0018fe",
+        "signature": "a6c5c9906262cf10549989c0061e5a44afdc1f61da77d5e09418a9ecea0018fe"
+      },
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/lib/prompts/input.d.ts": {
+        "version": "bc6e433cb982bf63eaa523dbbbd30fe12960a09861b352d77baf77ad6dd8886d",
+        "signature": "bc6e433cb982bf63eaa523dbbbd30fe12960a09861b352d77baf77ad6dd8886d"
+      },
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/lib/prompts/list.d.ts": {
+        "version": "9af64ab00918f552388252977c1569fe31890686ca1fdb8e20f58d3401c9a50c",
+        "signature": "9af64ab00918f552388252977c1569fe31890686ca1fdb8e20f58d3401c9a50c"
+      },
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/lib/prompts/number.d.ts": {
+        "version": "3d3cc03b5c6e056c24aac76789f4bc67caee98a4f0774ab82bc8ba34d16be916",
+        "signature": "3d3cc03b5c6e056c24aac76789f4bc67caee98a4f0774ab82bc8ba34d16be916"
+      },
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/lib/prompts/password.d.ts": {
+        "version": "747ce36fa27a750a05096f3610e59c9b5a55e13defec545c01a75fd13d67b620",
+        "signature": "747ce36fa27a750a05096f3610e59c9b5a55e13defec545c01a75fd13d67b620"
+      },
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/lib/prompts/rawlist.d.ts": {
+        "version": "1a8f503c64bdb36308f245960d9e4acac4cf65d8b6bd0534f88230ebf0be7883",
+        "signature": "1a8f503c64bdb36308f245960d9e4acac4cf65d8b6bd0534f88230ebf0be7883"
+      },
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/lib/ui/baseUI.d.ts": {
+        "version": "a2c1f4012459547d62116d724e7ec820bb2e6848da40ea0747bf160ffd99b283",
+        "signature": "a2c1f4012459547d62116d724e7ec820bb2e6848da40ea0747bf160ffd99b283"
+      },
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/lib/ui/bottom-bar.d.ts": {
+        "version": "0dc197e52512a7cbea4823cc33c23b0337af97bd59b38bf83be047f37cd8c9a8",
+        "signature": "0dc197e52512a7cbea4823cc33c23b0337af97bd59b38bf83be047f37cd8c9a8"
+      },
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/lib/ui/prompt.d.ts": {
+        "version": "492c93ade227fe4545fabb3035b9dd5d57d8b4fde322e5217fdaef20aa1b80a8",
+        "signature": "492c93ade227fe4545fabb3035b9dd5d57d8b4fde322e5217fdaef20aa1b80a8"
+      },
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/lib/utils/events.d.ts": {
+        "version": "83c54a3b3e836d1773b8c23ff76ce6e0aae1a2209fc772b75e9de173fec9eac0",
+        "signature": "83c54a3b3e836d1773b8c23ff76ce6e0aae1a2209fc772b75e9de173fec9eac0"
+      },
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/lib/utils/readline.d.ts": {
+        "version": "475e411f48f74c14b1f6e50cc244387a5cc8ce52340dddfae897c96e03f86527",
+        "signature": "475e411f48f74c14b1f6e50cc244387a5cc8ce52340dddfae897c96e03f86527"
+      },
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/lib/utils/utils.d.ts": {
+        "version": "5573ce7aa683a81c9a727294ffdb47d82d7715a148bfe9f4ddcf2f6cdfef1f0a",
+        "signature": "5573ce7aa683a81c9a727294ffdb47d82d7715a148bfe9f4ddcf2f6cdfef1f0a"
+      },
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/index.d.ts": {
+        "version": "2cd9edbb4a6411a9f5258237dd73323db978d7aa9ebf1d1b0ac79771ac233e24",
+        "signature": "2cd9edbb4a6411a9f5258237dd73323db978d7aa9ebf1d1b0ac79771ac233e24"
+      },
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/istanbul-lib-coverage/index.d.ts": {
+        "version": "9e951ec338c4232d611552a1be7b4ecec79a8c2307a893ce39701316fe2374bd",
+        "signature": "9e951ec338c4232d611552a1be7b4ecec79a8c2307a893ce39701316fe2374bd"
+      },
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/istanbul-lib-report/index.d.ts": {
+        "version": "70c61ff569aabdf2b36220da6c06caaa27e45cd7acac81a1966ab4ee2eadc4f2",
+        "signature": "70c61ff569aabdf2b36220da6c06caaa27e45cd7acac81a1966ab4ee2eadc4f2"
+      },
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/istanbul-reports/index.d.ts": {
+        "version": "93b59bc67329d5add033e3198583c39aa939cef891e6a2b763e0bea2b514ea9b",
+        "signature": "93b59bc67329d5add033e3198583c39aa939cef891e6a2b763e0bea2b514ea9b"
+      },
+      "/home/tigrow/tigrow/backend/typerest/node_modules/jest-diff/build/types.d.ts": {
+        "version": "71ba0678a3c647f5c0706ae975c031ace0d464e60f9ce56eaa7f1678d065aab7",
+        "signature": "71ba0678a3c647f5c0706ae975c031ace0d464e60f9ce56eaa7f1678d065aab7"
+      },
+      "/home/tigrow/tigrow/backend/typerest/node_modules/jest-diff/build/index.d.ts": {
+        "version": "162c6f2951bd80ae6e16679378f382200b26bba9de8f255af3a2895fbfa670b4",
+        "signature": "162c6f2951bd80ae6e16679378f382200b26bba9de8f255af3a2895fbfa670b4"
+      },
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/jest/index.d.ts": {
+        "version": "286023d63fb9b38c667c1a6d0cf8e6e062ac9ccd6fff22dafb45c4abcb2093ad",
+        "signature": "286023d63fb9b38c667c1a6d0cf8e6e062ac9ccd6fff22dafb45c4abcb2093ad"
+      },
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/stack-utils/index.d.ts": {
+        "version": "41422586881bcd739b4e62d9b91cd29909f8572aa3e3cdf316b7c50f14708d49",
+        "signature": "41422586881bcd739b4e62d9b91cd29909f8572aa3e3cdf316b7c50f14708d49"
+      },
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/superagent/index.d.ts": {
+        "version": "917ef877f705a9e37030fa85387a3d9ced337db830b4dec26559dc00b6b0b17b",
+        "signature": "917ef877f705a9e37030fa85387a3d9ced337db830b4dec26559dc00b6b0b17b"
+      },
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/supertest/index.d.ts": {
+        "version": "79e8fe7df47b9eee82aba6de491c17ed11759171ed0ee0d804e83971b2a17fc3",
+        "signature": "79e8fe7df47b9eee82aba6de491c17ed11759171ed0ee0d804e83971b2a17fc3"
+      },
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/swagger-jsdoc/index.d.ts": {
+        "version": "3a80e336c2a4b3d2efae39e6a592b76d5975cd5fc9cf6a8e7132d2afeeda083c",
+        "signature": "3a80e336c2a4b3d2efae39e6a592b76d5975cd5fc9cf6a8e7132d2afeeda083c"
+      },
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/yargs-parser/index.d.ts": {
+        "version": "e65fca93c26b09681d33dad7b3af32ae42bf0d114d859671ffed30a92691439c",
+        "signature": "e65fca93c26b09681d33dad7b3af32ae42bf0d114d859671ffed30a92691439c"
+      },
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/yargs/index.d.ts": {
+        "version": "989ea8e89ef2d6a07a1872fcee14be6b9e1920b04f19a4ab149d673f89af67e6",
+        "signature": "989ea8e89ef2d6a07a1872fcee14be6b9e1920b04f19a4ab149d673f89af67e6"
+      },
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/yeoman-generator/index.d.ts": {
+        "version": "3c34de5e9739628dcdb003cd751cc0a43b2c19e32a46ca642eca4ca8b0901bef",
+        "signature": "3c34de5e9739628dcdb003cd751cc0a43b2c19e32a46ca642eca4ca8b0901bef"
+      }
+    },
+    "options": {
+      "incremental": true,
+      "target": 3,
+      "module": 1,
+      "outDir": "/home/tigrow/tigrow/backend/typerest/dist",
+      "rootDir": "/home/tigrow/tigrow/backend/typerest/src",
+      "removeComments": true,
+      "strict": true,
+      "noImplicitAny": true,
+      "noUnusedLocals": true,
+      "noImplicitReturns": true,
+      "moduleResolution": 2,
+      "baseUrl": "/home/tigrow/tigrow/backend/typerest/",
+      "skipLibCheck": true,
+      "configFilePath": "/home/tigrow/tigrow/backend/typerest/tsconfig.json"
+    },
+    "referencedMap": {
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/node/inspector.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/node/index.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/node/index.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/node/index.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/node/inspector.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/bson/index.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/node/index.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/mongodb/index.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/bson/index.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/node/index.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/mongoose/index.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/node/index.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/mongodb/index.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/mongoose/index.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/dotenv/index.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/node/index.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/src/config/env/index.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/dotenv/index.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/src/config/connection/connection.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/mongoose/index.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/src/config/env/index.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/express-serve-static-core/index.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/node/index.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/range-parser/index.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/serve-static/index.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/express-serve-static-core/index.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/mime/index.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/body-parser/index.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/express/index.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/node/index.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/express/index.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/body-parser/index.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/serve-static/index.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/express-serve-static-core/index.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/src/config/error/index.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/node/index.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/express/index.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/src/config/error/sendHttpError.ts": [
+        "/home/tigrow/tigrow/backend/typerest/src/config/error/index.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/express/index.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/jsonwebtoken/index.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/node/index.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/compression/index.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/express/index.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/cookie-parser/index.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/express/index.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/cors/index.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/express/index.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/morgan/index.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/express/index.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/sonic-boom/index.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/node/index.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/pino-std-serializers/index.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/node/index.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/pino/index.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/node/index.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/sonic-boom/index.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/pino-std-serializers/index.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/pino-http/index.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/node/index.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/pino/index.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/express-pino-logger/index.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/pino-http/index.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/helmet/index.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/express/index.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/src/config/middleware/middleware.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/body-parser/index.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/compression/index.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/cookie-parser/index.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/cors/index.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/express/index.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/morgan/index.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/pino/index.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/express-pino-logger/index.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/helmet/index.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/src/config/env/index.ts",
+        "/home/tigrow/tigrow/backend/typerest/src/config/error/index.ts",
+        "/home/tigrow/tigrow/backend/typerest/src/config/error/sendHttpError.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/swagger-ui-express/index.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/express/index.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/serve-static/index.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/joi/index.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/joi/index.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/src/modules/validation.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/joi/index.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/mongoose/index.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/src/modules/user/user.model.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/bcrypt/index.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/src/config/connection/connection.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/node/index.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/mongoose/index.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/express/index.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/src/modules/auth/auth.validation.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/joi/index.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/src/modules/validation.ts",
+        "/home/tigrow/tigrow/backend/typerest/src/modules/user/user.model.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/src/modules/auth/auth.interface.ts": [
+        "/home/tigrow/tigrow/backend/typerest/src/modules/user/user.model.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/src/modules/auth/auth.service.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/joi/index.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/src/modules/auth/auth.validation.ts",
+        "/home/tigrow/tigrow/backend/typerest/src/modules/user/user.model.ts",
+        "/home/tigrow/tigrow/backend/typerest/src/modules/auth/auth.interface.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/src/modules/auth/auth.controller.ts": [
+        "/home/tigrow/tigrow/backend/typerest/src/modules/auth/auth.service.ts",
+        "/home/tigrow/tigrow/backend/typerest/src/config/error/index.ts",
+        "/home/tigrow/tigrow/backend/typerest/src/modules/user/user.model.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/express/index.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/jsonwebtoken/index.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/src/config/server/server.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/src/modules/user/user.validation.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/joi/index.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/src/modules/validation.ts",
+        "/home/tigrow/tigrow/backend/typerest/src/modules/user/user.model.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/src/modules/user/user.interface.ts": [
+        "/home/tigrow/tigrow/backend/typerest/src/modules/user/user.model.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/src/modules/user/user.service.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/joi/index.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/src/modules/user/user.model.ts",
+        "/home/tigrow/tigrow/backend/typerest/src/modules/user/user.validation.ts",
+        "/home/tigrow/tigrow/backend/typerest/src/modules/user/user.interface.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/mongoose/index.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/src/modules/user/user.controller.ts": [
+        "/home/tigrow/tigrow/backend/typerest/src/modules/user/user.service.ts",
+        "/home/tigrow/tigrow/backend/typerest/src/config/error/index.ts",
+        "/home/tigrow/tigrow/backend/typerest/src/modules/user/user.model.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/express/index.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/src/modules/index.ts": [
+        "/home/tigrow/tigrow/backend/typerest/src/modules/auth/auth.controller.ts",
+        "/home/tigrow/tigrow/backend/typerest/src/modules/user/user.controller.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/src/modules/auth/auth.route.ts": [
+        "/home/tigrow/tigrow/backend/typerest/src/modules/index.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/express/index.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/src/modules/user/user.route.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/express/index.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/src/modules/index.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/src/modules/route.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/express/index.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/node/index.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/src/config/middleware/jwtAuth.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/swagger-ui-express/index.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/src/modules/auth/auth.route.ts",
+        "/home/tigrow/tigrow/backend/typerest/src/modules/user/user.route.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/src/config/server/server.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/express/index.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/src/config/middleware/middleware.ts",
+        "/home/tigrow/tigrow/backend/typerest/src/modules/route.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/src/config/middleware/jwtAuth.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/jsonwebtoken/index.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/express/index.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/src/config/server/server.ts",
+        "/home/tigrow/tigrow/backend/typerest/src/config/error/index.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/node/index.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/src/config/server/serverHandlers.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/debug/index.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/node/index.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/src/config/server/index.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/node/index.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/src/config/server/serverHandlers.ts",
+        "/home/tigrow/tigrow/backend/typerest/src/config/server/server.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/babel__generator/index.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@babel/types/lib/index.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/babel__traverse/index.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@babel/types/lib/index.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@babel/parser/typings/babel-parser.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@babel/types/lib/index.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/babel__template/index.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@babel/parser/typings/babel-parser.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@babel/types/lib/index.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/babel__core/index.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/babel__generator/index.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/babel__traverse/index.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/babel__template/index.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@babel/types/lib/index.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@babel/parser/typings/babel-parser.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Subscription.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/types.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/types.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Observable.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Subscription.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Subscriber.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/types.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Subscription.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Operator.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Subscriber.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/types.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/observable/iif.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Observable.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/types.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/observable/throwError.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Observable.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/types.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Observable.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Operator.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Subscriber.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Subscription.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/types.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/observable/iif.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/observable/throwError.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Subject.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Operator.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Observable.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Subscriber.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Subscription.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/types.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/observable/ConnectableObservable.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Subject.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Observable.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Subscriber.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Subscription.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/operators/groupBy.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Subscriber.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Subscription.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Observable.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Subject.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/types.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/BehaviorSubject.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Subject.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Subscriber.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Subscription.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/ReplaySubject.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Subject.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/types.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Subscriber.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Subscription.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/AsyncSubject.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Subject.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Subscriber.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Subscription.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Scheduler.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/scheduler/Action.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Subscription.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/types.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/scheduler/Action.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Scheduler.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Subscription.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/types.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/scheduler/AsyncScheduler.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Scheduler.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/scheduler/Action.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/scheduler/AsyncAction.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/types.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Subscription.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/scheduler/AsyncAction.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/scheduler/Action.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/types.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Subscription.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/scheduler/AsyncScheduler.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/scheduler/AsapScheduler.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/scheduler/AsyncAction.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/scheduler/AsyncScheduler.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/scheduler/asap.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/scheduler/AsapScheduler.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/scheduler/async.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/scheduler/AsyncScheduler.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/scheduler/QueueScheduler.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/scheduler/AsyncScheduler.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/scheduler/queue.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/scheduler/QueueScheduler.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/scheduler/AnimationFrameScheduler.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/scheduler/AsyncAction.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/scheduler/AsyncScheduler.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/scheduler/animationFrame.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/scheduler/AnimationFrameScheduler.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/scheduler/VirtualTimeScheduler.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/scheduler/AsyncAction.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Subscription.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/scheduler/AsyncScheduler.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/types.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Notification.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/types.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Observable.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/util/pipe.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/types.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/util/isObservable.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Observable.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/observable/bindCallback.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/types.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Observable.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/observable/bindNodeCallback.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Observable.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/types.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/InnerSubscriber.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Subscriber.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/OuterSubscriber.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/OuterSubscriber.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Subscriber.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/InnerSubscriber.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/observable/combineLatest.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Observable.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/types.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Subscriber.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/OuterSubscriber.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Operator.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/InnerSubscriber.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/observable/concat.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Observable.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/types.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/observable/defer.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Observable.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/types.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/observable/empty.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Observable.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/types.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/observable/forkJoin.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Observable.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/types.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/observable/from.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Observable.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/types.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/observable/fromEvent.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Observable.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/observable/fromEventPattern.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Observable.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/observable/fromEvent.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/observable/generate.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Observable.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/types.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/observable/interval.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Observable.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/types.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/observable/merge.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Observable.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/types.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/observable/never.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Observable.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/observable/of.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/types.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Observable.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/observable/onErrorResumeNext.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Observable.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/types.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/observable/pairs.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Observable.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/types.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Subscriber.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Subscription.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/observable/partition.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/types.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Observable.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/observable/race.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Observable.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Operator.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Subscriber.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/types.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/OuterSubscriber.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/InnerSubscriber.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/observable/range.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/types.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Observable.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/observable/timer.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Observable.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/types.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/observable/using.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Observable.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/types.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/observable/zip.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Observable.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Operator.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/types.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Subscriber.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/scheduled/scheduled.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/index.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/index.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Observable.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/observable/ConnectableObservable.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/operators/groupBy.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Operator.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/symbol/observable.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Subject.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/BehaviorSubject.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/ReplaySubject.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/AsyncSubject.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/scheduler/asap.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/scheduler/async.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/scheduler/queue.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/scheduler/animationFrame.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/scheduler/VirtualTimeScheduler.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Scheduler.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Subscription.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Subscriber.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Notification.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/util/pipe.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/util/noop.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/util/identity.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/util/isObservable.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/util/ArgumentOutOfRangeError.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/util/EmptyError.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/util/ObjectUnsubscribedError.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/util/UnsubscriptionError.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/util/TimeoutError.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/observable/bindCallback.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/observable/bindNodeCallback.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/observable/combineLatest.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/observable/concat.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/observable/defer.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/observable/empty.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/observable/forkJoin.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/observable/from.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/observable/fromEvent.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/observable/fromEventPattern.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/observable/generate.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/observable/iif.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/observable/interval.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/observable/merge.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/observable/never.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/observable/of.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/observable/onErrorResumeNext.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/observable/pairs.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/observable/partition.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/observable/race.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/observable/range.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/observable/throwError.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/observable/timer.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/observable/using.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/observable/zip.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/scheduled/scheduled.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/types.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/config.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/through/index.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/node/index.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/lib/objects/choice.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/index.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/lib/objects/separator.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/index.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/lib/objects/choices.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/index.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/lib/objects/choice.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/lib/objects/separator.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/lib/utils/screen-manager.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/node/index.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/lib/prompts/base.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/node/index.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/index.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/index.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/lib/utils/screen-manager.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/lib/utils/paginator.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/lib/utils/screen-manager.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/lib/prompts/checkbox.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/index.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/lib/prompts/base.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/node/index.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/lib/utils/paginator.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/lib/prompts/confirm.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/lib/prompts/base.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/index.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/node/index.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/lib/prompts/editor.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/lib/prompts/base.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/index.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/index.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/node/index.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/lib/prompts/expand.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/lib/utils/paginator.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/lib/prompts/base.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/index.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/node/index.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/lib/prompts/input.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/lib/prompts/base.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/index.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/node/index.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/lib/prompts/list.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/lib/prompts/base.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/index.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/lib/utils/paginator.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/node/index.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/lib/prompts/number.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/lib/prompts/input.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/index.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/node/index.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/lib/prompts/password.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/lib/prompts/base.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/index.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/node/index.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/lib/prompts/rawlist.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/index.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/lib/prompts/base.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/lib/utils/paginator.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/node/index.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/lib/ui/baseUI.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/node/index.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/index.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/lib/ui/bottom-bar.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/through/index.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/index.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/lib/ui/baseUI.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/lib/ui/prompt.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/index.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/index.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/lib/ui/baseUI.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/lib/utils/events.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/node/index.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/index.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/lib/utils/readline.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/node/index.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/lib/utils/utils.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/index.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/index.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/index.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/node/index.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/index.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/through/index.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/lib/objects/choice.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/lib/objects/choices.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/lib/objects/separator.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/lib/prompts/base.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/lib/prompts/checkbox.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/lib/prompts/confirm.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/lib/prompts/editor.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/lib/prompts/expand.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/lib/prompts/input.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/lib/prompts/list.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/lib/prompts/number.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/lib/prompts/password.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/lib/prompts/rawlist.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/lib/ui/bottom-bar.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/lib/ui/prompt.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/lib/utils/events.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/lib/utils/paginator.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/lib/utils/readline.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/lib/utils/screen-manager.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/lib/utils/utils.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/istanbul-lib-report/index.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/istanbul-lib-coverage/index.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/istanbul-reports/index.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/istanbul-lib-report/index.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/istanbul-lib-coverage/index.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/jest-diff/build/index.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/jest-diff/build/types.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/jest/index.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/jest-diff/build/index.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/superagent/index.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/node/index.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/cookiejar/index.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/supertest/index.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/superagent/index.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/yargs/index.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/yargs-parser/index.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/yeoman-generator/index.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/node/index.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/index.d.ts"
+      ]
+    },
+    "exportedModulesMap": {
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/node/inspector.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/node/index.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/node/index.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/node/index.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/node/inspector.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/bson/index.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/node/index.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/mongodb/index.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/bson/index.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/node/index.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/mongoose/index.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/node/index.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/mongodb/index.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/mongoose/index.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/dotenv/index.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/node/index.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/src/config/connection/connection.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/mongoose/index.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/express-serve-static-core/index.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/node/index.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/range-parser/index.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/serve-static/index.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/express-serve-static-core/index.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/mime/index.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/body-parser/index.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/express/index.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/node/index.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/express/index.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/body-parser/index.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/serve-static/index.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/express-serve-static-core/index.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/src/config/error/sendHttpError.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/express/index.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/jsonwebtoken/index.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/node/index.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/compression/index.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/express/index.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/cookie-parser/index.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/express/index.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/cors/index.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/express/index.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/morgan/index.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/express/index.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/sonic-boom/index.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/node/index.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/pino-std-serializers/index.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/node/index.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/pino/index.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/node/index.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/sonic-boom/index.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/pino-std-serializers/index.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/pino-http/index.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/node/index.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/pino/index.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/express-pino-logger/index.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/pino-http/index.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/helmet/index.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/express/index.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/src/config/middleware/middleware.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/express/index.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/swagger-ui-express/index.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/express/index.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/serve-static/index.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/joi/index.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/joi/index.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/src/modules/user/user.model.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/mongoose/index.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/src/modules/auth/auth.validation.ts": [
+        "/home/tigrow/tigrow/backend/typerest/src/modules/user/user.model.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/joi/index.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/src/modules/validation.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/src/modules/auth/auth.interface.ts": [
+        "/home/tigrow/tigrow/backend/typerest/src/modules/user/user.model.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/src/modules/auth/auth.service.ts": [
+        "/home/tigrow/tigrow/backend/typerest/src/modules/auth/auth.interface.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/src/modules/auth/auth.controller.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/express/index.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/src/modules/user/user.validation.ts": [
+        "/home/tigrow/tigrow/backend/typerest/src/modules/user/user.model.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/joi/index.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/src/modules/validation.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/src/modules/user/user.interface.ts": [
+        "/home/tigrow/tigrow/backend/typerest/src/modules/user/user.model.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/src/modules/user/user.service.ts": [
+        "/home/tigrow/tigrow/backend/typerest/src/modules/user/user.interface.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/src/modules/user/user.controller.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/express/index.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/src/modules/index.ts": [
+        "/home/tigrow/tigrow/backend/typerest/src/modules/auth/auth.controller.ts",
+        "/home/tigrow/tigrow/backend/typerest/src/modules/user/user.controller.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/src/modules/auth/auth.route.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/express/index.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/src/modules/user/user.route.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/express/index.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/src/modules/route.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/express/index.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/src/config/server/server.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/express/index.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/src/config/middleware/jwtAuth.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/express/index.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/babel__generator/index.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@babel/types/lib/index.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/babel__traverse/index.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@babel/types/lib/index.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@babel/parser/typings/babel-parser.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@babel/types/lib/index.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/babel__template/index.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@babel/parser/typings/babel-parser.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@babel/types/lib/index.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/babel__core/index.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/babel__generator/index.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/babel__traverse/index.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/babel__template/index.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@babel/types/lib/index.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@babel/parser/typings/babel-parser.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Subscription.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/types.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/types.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Observable.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Subscription.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Subscriber.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/types.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Subscription.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Operator.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Subscriber.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/types.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/observable/iif.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Observable.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/types.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/observable/throwError.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Observable.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/types.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Observable.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Operator.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Subscriber.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Subscription.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/types.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/observable/iif.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/observable/throwError.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Subject.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Operator.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Observable.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Subscriber.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Subscription.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/types.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/observable/ConnectableObservable.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Subject.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Observable.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Subscriber.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Subscription.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/operators/groupBy.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Subscriber.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Subscription.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Observable.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Subject.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/types.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/BehaviorSubject.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Subject.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Subscriber.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Subscription.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/ReplaySubject.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Subject.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/types.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Subscriber.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Subscription.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/AsyncSubject.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Subject.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Subscriber.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Subscription.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Scheduler.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/scheduler/Action.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Subscription.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/types.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/scheduler/Action.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Scheduler.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Subscription.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/types.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/scheduler/AsyncScheduler.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Scheduler.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/scheduler/Action.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/scheduler/AsyncAction.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/types.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Subscription.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/scheduler/AsyncAction.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/scheduler/Action.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/types.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Subscription.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/scheduler/AsyncScheduler.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/scheduler/AsapScheduler.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/scheduler/AsyncAction.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/scheduler/AsyncScheduler.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/scheduler/asap.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/scheduler/AsapScheduler.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/scheduler/async.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/scheduler/AsyncScheduler.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/scheduler/QueueScheduler.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/scheduler/AsyncScheduler.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/scheduler/queue.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/scheduler/QueueScheduler.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/scheduler/AnimationFrameScheduler.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/scheduler/AsyncAction.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/scheduler/AsyncScheduler.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/scheduler/animationFrame.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/scheduler/AnimationFrameScheduler.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/scheduler/VirtualTimeScheduler.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/scheduler/AsyncAction.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Subscription.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/scheduler/AsyncScheduler.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/types.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Notification.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/types.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Observable.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/util/pipe.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/types.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/util/isObservable.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Observable.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/observable/bindCallback.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/types.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Observable.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/observable/bindNodeCallback.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Observable.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/types.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/InnerSubscriber.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Subscriber.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/OuterSubscriber.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/OuterSubscriber.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Subscriber.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/InnerSubscriber.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/observable/combineLatest.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Observable.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/types.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Subscriber.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/OuterSubscriber.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Operator.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/InnerSubscriber.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/observable/concat.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Observable.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/types.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/observable/defer.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Observable.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/types.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/observable/empty.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Observable.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/types.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/observable/forkJoin.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Observable.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/types.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/observable/from.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Observable.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/types.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/observable/fromEvent.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Observable.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/observable/fromEventPattern.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Observable.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/observable/fromEvent.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/observable/generate.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Observable.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/types.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/observable/interval.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Observable.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/types.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/observable/merge.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Observable.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/types.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/observable/never.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Observable.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/observable/of.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/types.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Observable.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/observable/onErrorResumeNext.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Observable.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/types.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/observable/pairs.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Observable.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/types.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Subscriber.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Subscription.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/observable/partition.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/types.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Observable.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/observable/race.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Observable.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Operator.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Subscriber.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/types.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/OuterSubscriber.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/InnerSubscriber.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/observable/range.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/types.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Observable.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/observable/timer.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Observable.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/types.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/observable/using.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Observable.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/types.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/observable/zip.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Observable.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Operator.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/types.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Subscriber.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/scheduled/scheduled.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/index.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/index.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Observable.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/observable/ConnectableObservable.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/operators/groupBy.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Operator.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/symbol/observable.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Subject.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/BehaviorSubject.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/ReplaySubject.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/AsyncSubject.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/scheduler/asap.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/scheduler/async.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/scheduler/queue.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/scheduler/animationFrame.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/scheduler/VirtualTimeScheduler.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Scheduler.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Subscription.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Subscriber.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Notification.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/util/pipe.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/util/noop.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/util/identity.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/util/isObservable.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/util/ArgumentOutOfRangeError.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/util/EmptyError.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/util/ObjectUnsubscribedError.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/util/UnsubscriptionError.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/util/TimeoutError.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/observable/bindCallback.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/observable/bindNodeCallback.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/observable/combineLatest.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/observable/concat.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/observable/defer.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/observable/empty.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/observable/forkJoin.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/observable/from.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/observable/fromEvent.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/observable/fromEventPattern.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/observable/generate.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/observable/iif.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/observable/interval.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/observable/merge.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/observable/never.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/observable/of.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/observable/onErrorResumeNext.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/observable/pairs.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/observable/partition.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/observable/race.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/observable/range.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/observable/throwError.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/observable/timer.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/observable/using.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/observable/zip.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/scheduled/scheduled.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/types.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/config.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/through/index.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/node/index.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/lib/objects/choice.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/index.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/lib/objects/separator.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/index.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/lib/objects/choices.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/index.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/lib/objects/choice.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/lib/objects/separator.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/lib/utils/screen-manager.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/node/index.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/lib/prompts/base.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/node/index.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/index.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/index.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/lib/utils/screen-manager.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/lib/utils/paginator.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/lib/utils/screen-manager.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/lib/prompts/checkbox.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/index.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/lib/prompts/base.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/node/index.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/lib/utils/paginator.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/lib/prompts/confirm.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/lib/prompts/base.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/index.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/node/index.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/lib/prompts/editor.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/lib/prompts/base.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/index.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/index.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/node/index.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/lib/prompts/expand.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/lib/utils/paginator.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/lib/prompts/base.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/index.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/node/index.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/lib/prompts/input.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/lib/prompts/base.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/index.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/node/index.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/lib/prompts/list.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/lib/prompts/base.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/index.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/lib/utils/paginator.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/node/index.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/lib/prompts/number.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/lib/prompts/input.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/index.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/node/index.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/lib/prompts/password.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/lib/prompts/base.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/index.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/node/index.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/lib/prompts/rawlist.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/index.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/lib/prompts/base.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/lib/utils/paginator.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/node/index.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/lib/ui/baseUI.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/node/index.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/index.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/lib/ui/bottom-bar.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/through/index.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/index.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/lib/ui/baseUI.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/lib/ui/prompt.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/index.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/index.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/lib/ui/baseUI.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/lib/utils/events.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/node/index.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/index.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/lib/utils/readline.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/node/index.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/lib/utils/utils.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/index.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/index.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/index.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/node/index.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/index.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/through/index.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/lib/objects/choice.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/lib/objects/choices.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/lib/objects/separator.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/lib/prompts/base.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/lib/prompts/checkbox.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/lib/prompts/confirm.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/lib/prompts/editor.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/lib/prompts/expand.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/lib/prompts/input.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/lib/prompts/list.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/lib/prompts/number.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/lib/prompts/password.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/lib/prompts/rawlist.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/lib/ui/bottom-bar.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/lib/ui/prompt.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/lib/utils/events.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/lib/utils/paginator.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/lib/utils/readline.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/lib/utils/screen-manager.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/lib/utils/utils.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/istanbul-lib-report/index.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/istanbul-lib-coverage/index.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/istanbul-reports/index.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/istanbul-lib-report/index.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/istanbul-lib-coverage/index.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/jest-diff/build/index.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/jest-diff/build/types.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/jest/index.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/jest-diff/build/index.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/superagent/index.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/node/index.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/cookiejar/index.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/supertest/index.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/superagent/index.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/yargs/index.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/yargs-parser/index.d.ts"
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/yeoman-generator/index.d.ts": [
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/node/index.d.ts",
+        "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/index.d.ts"
+      ]
+    },
+    "semanticDiagnosticsPerFile": [
+      "/home/tigrow/tigrow/backend/typerest/node_modules/typescript/lib/lib.es5.d.ts",
+      "/home/tigrow/tigrow/backend/typerest/node_modules/typescript/lib/lib.es2015.d.ts",
+      "/home/tigrow/tigrow/backend/typerest/node_modules/typescript/lib/lib.es2016.d.ts",
+      "/home/tigrow/tigrow/backend/typerest/node_modules/typescript/lib/lib.dom.d.ts",
+      "/home/tigrow/tigrow/backend/typerest/node_modules/typescript/lib/lib.dom.iterable.d.ts",
+      "/home/tigrow/tigrow/backend/typerest/node_modules/typescript/lib/lib.webworker.importscripts.d.ts",
+      "/home/tigrow/tigrow/backend/typerest/node_modules/typescript/lib/lib.scripthost.d.ts",
+      "/home/tigrow/tigrow/backend/typerest/node_modules/typescript/lib/lib.es2015.core.d.ts",
+      "/home/tigrow/tigrow/backend/typerest/node_modules/typescript/lib/lib.es2015.collection.d.ts",
+      "/home/tigrow/tigrow/backend/typerest/node_modules/typescript/lib/lib.es2015.generator.d.ts",
+      "/home/tigrow/tigrow/backend/typerest/node_modules/typescript/lib/lib.es2015.iterable.d.ts",
+      "/home/tigrow/tigrow/backend/typerest/node_modules/typescript/lib/lib.es2015.promise.d.ts",
+      "/home/tigrow/tigrow/backend/typerest/node_modules/typescript/lib/lib.es2015.proxy.d.ts",
+      "/home/tigrow/tigrow/backend/typerest/node_modules/typescript/lib/lib.es2015.reflect.d.ts",
+      "/home/tigrow/tigrow/backend/typerest/node_modules/typescript/lib/lib.es2015.symbol.d.ts",
+      "/home/tigrow/tigrow/backend/typerest/node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts",
+      "/home/tigrow/tigrow/backend/typerest/node_modules/typescript/lib/lib.es2016.array.include.d.ts",
+      "/home/tigrow/tigrow/backend/typerest/node_modules/typescript/lib/lib.es2016.full.d.ts",
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/node/inspector.d.ts",
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/node/index.d.ts",
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/bson/index.d.ts",
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/mongodb/index.d.ts",
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/mongoose/index.d.ts",
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/dotenv/index.d.ts",
+      "/home/tigrow/tigrow/backend/typerest/src/config/env/index.ts",
+      "/home/tigrow/tigrow/backend/typerest/src/config/connection/connection.ts",
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/range-parser/index.d.ts",
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/express-serve-static-core/index.d.ts",
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/mime/index.d.ts",
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/serve-static/index.d.ts",
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/body-parser/index.d.ts",
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/express/index.d.ts",
+      [
+        "/home/tigrow/tigrow/backend/typerest/src/config/error/index.ts",
+        [
+          {
+            "file": "/home/tigrow/tigrow/backend/typerest/src/config/error/index.ts",
+            "start": 30,
+            "length": 58,
+            "messageText": "All imports in import declaration are unused.",
+            "category": 1,
+            "code": 6192,
+            "reportsUnnecessary": true
+          },
+          {
+            "file": "/home/tigrow/tigrow/backend/typerest/src/config/error/index.ts",
+            "start": 604,
+            "length": 4,
+            "messageText": "Property 'name' is used before being assigned.",
+            "category": 1,
+            "code": 2565
+          }
+        ]
+      ],
+      [
+        "/home/tigrow/tigrow/backend/typerest/src/config/error/sendHttpError.ts",
+        [
+          {
+            "file": "/home/tigrow/tigrow/backend/typerest/src/config/error/sendHttpError.ts",
+            "start": 1113,
+            "length": 17,
+            "messageText": "Object is possibly 'undefined'.",
+            "category": 1,
+            "code": 2532
+          }
+        ]
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/jsonwebtoken/index.d.ts",
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/compression/index.d.ts",
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/cookie-parser/index.d.ts",
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/cors/index.d.ts",
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/morgan/index.d.ts",
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/sonic-boom/index.d.ts",
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/pino-std-serializers/index.d.ts",
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/pino/index.d.ts",
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/pino-http/index.d.ts",
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/express-pino-logger/index.d.ts",
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/helmet/index.d.ts",
+      [
+        "/home/tigrow/tigrow/backend/typerest/src/config/middleware/middleware.ts",
+        [
+          {
+            "file": "/home/tigrow/tigrow/backend/typerest/src/config/middleware/middleware.ts",
+            "start": 200,
+            "length": 33,
+            "messageText": "'logger' is declared but its value is never read.",
+            "category": 1,
+            "code": 6133,
+            "reportsUnnecessary": true
+          },
+          {
+            "file": "/home/tigrow/tigrow/backend/typerest/src/config/middleware/middleware.ts",
+            "start": 343,
+            "length": 34,
+            "messageText": "'config' is declared but its value is never read.",
+            "category": 1,
+            "code": 6133,
+            "reportsUnnecessary": true
+          },
+          {
+            "file": "/home/tigrow/tigrow/backend/typerest/src/config/middleware/middleware.ts",
+            "start": 2196,
+            "length": 90,
+            "code": 2345,
+            "category": 1,
+            "messageText": {
+              "messageText": "Argument of type '(error: Error, req: Request, res: CustomResponse, next: NextFunction) => void' is not assignable to parameter of type 'RequestHandlerParams<ParamsDictionary, any, any>'.",
+              "category": 1,
+              "code": 2345,
+              "next": {
+                "messageText": "Type '(error: Error, req: Request, res: CustomResponse, next: NextFunction) => void' is not assignable to type 'RequestHandler<ParamsDictionary, any, any>'.",
+                "category": 1,
+                "code": 2322
+              }
+            }
+          }
+        ]
+      ],
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/swagger-ui-express/index.d.ts",
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/joi/index.d.ts",
+      "/home/tigrow/tigrow/backend/typerest/src/modules/validation.ts",
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/bcrypt/index.d.ts",
+      "/home/tigrow/tigrow/backend/typerest/src/modules/user/user.model.ts",
+      "/home/tigrow/tigrow/backend/typerest/src/modules/auth/auth.validation.ts",
+      "/home/tigrow/tigrow/backend/typerest/src/modules/auth/auth.interface.ts",
+      [
+        "/home/tigrow/tigrow/backend/typerest/src/modules/auth/auth.service.ts",
+        [
+          {
+            "file": "/home/tigrow/tigrow/backend/typerest/src/modules/auth/auth.service.ts",
+            "start": 836,
+            "length": 5,
+            "code": 2322,
+            "category": 1,
+            "messageText": {
+              "messageText": "Type 'IUserModel | null' is not assignable to type 'IUserModel'.",
+              "category": 1,
+              "code": 2322,
+              "next": {
+                "messageText": "Type 'null' is not assignable to type 'IUserModel'.",
+                "category": 1,
+                "code": 2322
+              }
+            }
+          },
+          {
+            "file": "/home/tigrow/tigrow/backend/typerest/src/modules/auth/auth.service.ts",
+            "start": 1612,
+            "length": 4,
+            "code": 2322,
+            "category": 1,
+            "messageText": {
+              "messageText": "Type 'IUserModel | null' is not assignable to type 'IUserModel'.",
+              "category": 1,
+              "code": 2322,
+              "next": {
+                "messageText": "Type 'null' is not assignable to type 'IUserModel'.",
+                "category": 1,
+                "code": 2322
+              }
+            }
+          }
+        ]
+      ],
+      "/home/tigrow/tigrow/backend/typerest/src/modules/auth/auth.controller.ts",
+      "/home/tigrow/tigrow/backend/typerest/src/modules/user/user.validation.ts",
+      "/home/tigrow/tigrow/backend/typerest/src/modules/user/user.interface.ts",
+      [
+        "/home/tigrow/tigrow/backend/typerest/src/modules/user/user.service.ts",
+        [
+          {
+            "file": "/home/tigrow/tigrow/backend/typerest/src/modules/user/user.service.ts",
+            "start": 1046,
+            "length": 88,
+            "code": 2322,
+            "category": 1,
+            "messageText": {
+              "messageText": "Type 'IUserModel | null' is not assignable to type 'IUserModel'.",
+              "category": 1,
+              "code": 2322,
+              "next": {
+                "messageText": "Type 'null' is not assignable to type 'IUserModel'.",
+                "category": 1,
+                "code": 2322
+              }
+            }
+          },
+          {
+            "file": "/home/tigrow/tigrow/backend/typerest/src/modules/user/user.service.ts",
+            "start": 2270,
+            "length": 4,
+            "code": 2322,
+            "category": 1,
+            "messageText": {
+              "messageText": "Type 'IUserModel | null' is not assignable to type 'IUserModel'.",
+              "category": 1,
+              "code": 2322,
+              "next": {
+                "messageText": "Type 'null' is not assignable to type 'IUserModel'.",
+                "category": 1,
+                "code": 2322
+              }
+            }
+          }
+        ]
+      ],
+      "/home/tigrow/tigrow/backend/typerest/src/modules/user/user.controller.ts",
+      "/home/tigrow/tigrow/backend/typerest/src/modules/index.ts",
+      "/home/tigrow/tigrow/backend/typerest/src/modules/auth/auth.route.ts",
+      "/home/tigrow/tigrow/backend/typerest/src/modules/user/user.route.ts",
+      [
+        "/home/tigrow/tigrow/backend/typerest/src/modules/route.ts",
+        [
+          {
+            "file": "/home/tigrow/tigrow/backend/typerest/src/modules/route.ts",
+            "start": 1120,
+            "length": 25,
+            "code": 2345,
+            "category": 1,
+            "messageText": {
+              "messageText": "Argument of type '(req: RequestWithUser, res: Response, next: NextFunction) => void' is not assignable to parameter of type 'RequestHandlerParams<ParamsDictionary, any, any>'.",
+              "category": 1,
+              "code": 2345,
+              "next": {
+                "messageText": "Type '(req: RequestWithUser, res: Response, next: NextFunction) => void' is not assignable to type 'RequestHandler<ParamsDictionary, any, any>'.",
+                "category": 1,
+                "code": 2322,
+                "next": {
+                  "messageText": "Types of parameters 'req' and 'req' are incompatible.",
+                  "category": 1,
+                  "code": 2328,
+                  "next": {
+                    "messageText": "Property 'user' is missing in type 'Request<ParamsDictionary, any, any>' but required in type 'RequestWithUser'.",
+                    "category": 1,
+                    "code": 2741
+                  }
+                }
+              }
+            },
+            "relatedInformation": [
+              {
+                "file": "/home/tigrow/tigrow/backend/typerest/src/config/middleware/jwtAuth.ts",
+                "start": 245,
+                "length": 4,
+                "messageText": "'user' is declared here.",
+                "category": 3,
+                "code": 2728
+              }
+            ]
+          }
+        ]
+      ],
+      "/home/tigrow/tigrow/backend/typerest/src/config/server/server.ts",
+      "/home/tigrow/tigrow/backend/typerest/src/config/middleware/jwtAuth.ts",
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/debug/index.d.ts",
+      [
+        "/home/tigrow/tigrow/backend/typerest/src/config/server/serverHandlers.ts",
+        [
+          {
+            "file": "/home/tigrow/tigrow/backend/typerest/src/config/server/serverHandlers.ts",
+            "start": 873,
+            "length": 4,
+            "messageText": "'this' implicitly has type 'any' because it does not have a type annotation.",
+            "category": 1,
+            "code": 2683
+          }
+        ]
+      ],
+      "/home/tigrow/tigrow/backend/typerest/src/config/server/index.ts",
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@babel/types/lib/index.d.ts",
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/babel__generator/index.d.ts",
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/babel__traverse/index.d.ts",
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@babel/parser/typings/babel-parser.d.ts",
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/babel__template/index.d.ts",
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/babel__core/index.d.ts",
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/chai/index.d.ts",
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/cookiejar/index.d.ts",
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/ejs/index.d.ts",
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Subscription.d.ts",
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/types.d.ts",
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Subscriber.d.ts",
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Operator.d.ts",
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/observable/iif.d.ts",
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/observable/throwError.d.ts",
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Observable.d.ts",
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Subject.d.ts",
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/observable/ConnectableObservable.d.ts",
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/operators/groupBy.d.ts",
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/symbol/observable.d.ts",
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/BehaviorSubject.d.ts",
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/ReplaySubject.d.ts",
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/AsyncSubject.d.ts",
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Scheduler.d.ts",
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/scheduler/Action.d.ts",
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/scheduler/AsyncScheduler.d.ts",
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/scheduler/AsyncAction.d.ts",
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/scheduler/AsapScheduler.d.ts",
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/scheduler/asap.d.ts",
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/scheduler/async.d.ts",
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/scheduler/QueueScheduler.d.ts",
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/scheduler/queue.d.ts",
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/scheduler/AnimationFrameScheduler.d.ts",
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/scheduler/animationFrame.d.ts",
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/scheduler/VirtualTimeScheduler.d.ts",
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/Notification.d.ts",
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/util/pipe.d.ts",
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/util/noop.d.ts",
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/util/identity.d.ts",
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/util/isObservable.d.ts",
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/util/ArgumentOutOfRangeError.d.ts",
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/util/EmptyError.d.ts",
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/util/ObjectUnsubscribedError.d.ts",
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/util/UnsubscriptionError.d.ts",
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/util/TimeoutError.d.ts",
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/observable/bindCallback.d.ts",
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/observable/bindNodeCallback.d.ts",
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/InnerSubscriber.d.ts",
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/OuterSubscriber.d.ts",
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/observable/combineLatest.d.ts",
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/observable/concat.d.ts",
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/observable/defer.d.ts",
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/observable/empty.d.ts",
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/observable/forkJoin.d.ts",
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/observable/from.d.ts",
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/observable/fromEvent.d.ts",
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/observable/fromEventPattern.d.ts",
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/observable/generate.d.ts",
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/observable/interval.d.ts",
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/observable/merge.d.ts",
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/observable/never.d.ts",
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/observable/of.d.ts",
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/observable/onErrorResumeNext.d.ts",
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/observable/pairs.d.ts",
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/observable/partition.d.ts",
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/observable/race.d.ts",
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/observable/range.d.ts",
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/observable/timer.d.ts",
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/observable/using.d.ts",
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/observable/zip.d.ts",
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/scheduled/scheduled.d.ts",
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/internal/config.d.ts",
+      "/home/tigrow/tigrow/backend/typerest/node_modules/rxjs/index.d.ts",
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/through/index.d.ts",
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/lib/objects/choice.d.ts",
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/lib/objects/separator.d.ts",
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/lib/objects/choices.d.ts",
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/lib/utils/screen-manager.d.ts",
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/lib/prompts/base.d.ts",
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/lib/utils/paginator.d.ts",
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/lib/prompts/checkbox.d.ts",
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/lib/prompts/confirm.d.ts",
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/lib/prompts/editor.d.ts",
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/lib/prompts/expand.d.ts",
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/lib/prompts/input.d.ts",
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/lib/prompts/list.d.ts",
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/lib/prompts/number.d.ts",
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/lib/prompts/password.d.ts",
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/lib/prompts/rawlist.d.ts",
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/lib/ui/baseUI.d.ts",
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/lib/ui/bottom-bar.d.ts",
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/lib/ui/prompt.d.ts",
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/lib/utils/events.d.ts",
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/lib/utils/readline.d.ts",
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/lib/utils/utils.d.ts",
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/inquirer/index.d.ts",
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/istanbul-lib-coverage/index.d.ts",
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/istanbul-lib-report/index.d.ts",
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/istanbul-reports/index.d.ts",
+      "/home/tigrow/tigrow/backend/typerest/node_modules/jest-diff/build/types.d.ts",
+      "/home/tigrow/tigrow/backend/typerest/node_modules/jest-diff/build/index.d.ts",
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/jest/index.d.ts",
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/stack-utils/index.d.ts",
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/superagent/index.d.ts",
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/supertest/index.d.ts",
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/swagger-jsdoc/index.d.ts",
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/yargs-parser/index.d.ts",
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/yargs/index.d.ts",
+      "/home/tigrow/tigrow/backend/typerest/node_modules/@types/yeoman-generator/index.d.ts"
+    ]
+  },
+  "version": "3.4.3"
+}

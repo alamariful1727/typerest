@@ -14,5 +14,9 @@ Server.listen(server.get('port'));
  */
 Server.on('error',
     (error: Error) => serverHandlers.onError(error, server.get('port')));
+
+// Server.on('listening',
+//     serverHandlers.onListening.bind(Server));
+
 Server.on('listening',
-    serverHandlers.onListening.bind(Server));
+    () => (console.log(`Server listening on ${server.get('port')}`)));

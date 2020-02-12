@@ -38,7 +38,7 @@ export function sendHttpErrorModule(req: Request, res: any, next: NextFunction):
             req.xhr ||
             req.is('json') ||
             (req.is('json') && req.get('Accept')) ||
-            !(req.get('Accept') && req.get('Accept').indexOf('html') !== -1)
+            !(req.get('Accept') && req.get('Accept')!.indexOf('html') !== -1)
         ) {
             res.json({
                 status: error.status,
@@ -65,7 +65,7 @@ const generateHTML: Function = (error: HttpError): string => {
             `<p>Status: ${error.status}</p>` +
             `<p>Name: ${error.name}</p>` +
             `<p>${error}</p>` +
-        `</div>`;
+            `</div>`;
     }
 
     return '';

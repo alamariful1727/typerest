@@ -1,9 +1,11 @@
-import * as express from 'express';
+import { Application, Router } from 'express';
+// import express from 'express';
 import * as http from 'http';
-import * as jwtConfig from '../config/middleware/jwtAuth';
+// import * as jwtConfig from '../config/middleware/jwtAuth';
 import * as swaggerUi from 'swagger-ui-express';
 import AuthRouter from './auth/auth.route';
 import UserRouter from './user/user.route';
+import { isAuthenticated } from '../config/middleware/jwtAuth';
 let swaggerDoc: Object;
 
 try {
@@ -20,14 +22,13 @@ try {
  * @export
  * @param {express.Application} app
  */
-export function init(app: express.Application): void {
-    const router: express.Router = express.Router();
+export function init(app: Application): void {
+    const router: Router = Router();
 
-/**
-     * @constructs all routes
-     */
-    app.use('/api/v1',router);
-   
+    /**
+         * @constructs all routes
+         */
+    app.use('/api/v1', router);
 
     /**
      * @description
@@ -35,8 +36,8 @@ export function init(app: express.Application): void {
      *  Also, check if user authenticated
      * @constructs
      */
-    
-    router.use('/users', jwtConfig.isAuthenticated, UserRouter);
+
+    router.use('/users', isAuthenticated, UserRouter);
 
     /**
      * @description Forwards any requests to the /auth URI to our AuthRouter
@@ -69,5 +70,5 @@ export function init(app: express.Application): void {
         res.status(404).send(http.STATUS_CODES[404]);
     });
 
-    
+
 }

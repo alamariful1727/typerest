@@ -2,20 +2,16 @@ import * as mongoose from 'mongoose';
 import config from '../env/index';
 
 interface IConnectOptions {
-    autoReconnect: boolean;
-    reconnectTries: number; // Never stop trying to reconnect
-    reconnectInterval: number;
-    loggerLevel ? : string;
-    useNewUrlParser ? : boolean;
-    useCreateIndex ? : boolean;
+    loggerLevel?: string;
+    useNewUrlParser?: boolean;
+    useCreateIndex?: boolean;
+    useUnifiedTopology?: boolean;
 }
 
 const connectOptions: IConnectOptions = {
-    autoReconnect: true,
-    reconnectTries: Number.MAX_VALUE,
-    reconnectInterval: 1000,
     useNewUrlParser: true,
     useCreateIndex: true,
+    useUnifiedTopology: true
 };
 
 const MONGO_URI: string = `${config.database.MONGODB_URI}${config.database.MONGODB_DB_MAIN}`;

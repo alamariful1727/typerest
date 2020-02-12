@@ -2,24 +2,25 @@ import * as bodyParser from 'body-parser';
 import * as compression from 'compression';
 import * as cookieParser from 'cookie-parser';
 import * as cors from 'cors';
-import * as express from 'express';
-import * as logger from 'morgan';
-import * as pino from "pino";
-import * as loga from "express-pino-logger";
+import * as pino from 'pino';
+import * as loga from 'express-pino-logger';
 import * as helmet from 'helmet';
-import config from '../env/index';
 import { HttpError } from '../error/index';
 import { sendHttpErrorModule } from '../error/sendHttpError';
-//import * as Routes from '../../modules/route';
+import { Application } from 'express';
+// import * as Routes from '../../modules/route';
 /**
  * @export
- * @param {express.Application} app
+ * @param {Application} app
  */
-export function configure(app: express.Application): void {
-    const pinoLogger = pino({ prettyPrint: { 
-        colorize: true, translateTime: true
-    } });
+export function configure(app: Application): void {
+    const pinoLogger: pino.Logger = pino({
+        prettyPrint: {
+            colorize: true, translateTime: true
+        }
+    });
     // express middleware
+
     app.use(bodyParser.urlencoded({
         extended: false
     }));
@@ -28,11 +29,11 @@ export function configure(app: express.Application): void {
     app.use(cookieParser());
     // returns the compression middleware
     app.use(compression());
-    
-    if (process.env.NODE_ENV !== 'production'){
+
+    if (process.env.NODE_ENV !== 'production') {
         app.use(loga({
             logger: pinoLogger
-          }));
+        }));
     }
     // helps you secure your Express apps by setting various HTTP headers
     app.use(helmet());
@@ -58,16 +59,16 @@ export function configure(app: express.Application): void {
     });
 }
 
-interface CustomResponse extends express.Response {
-    sendHttpError: (error: HttpError | Error, message ? : string) => void;
-}
+// interface CustomResponse extends Response {
+//     sendHttpError: (error: HttpError | Error, message?: string) => void;
+// }
 
 /**
  * @export
- * @param {express.Application} app
+ * @param {Application} app
  */
-export function initErrorHandler(app: express.Application): void {
-    app.use((error: Error, req: express.Request, res: CustomResponse, next: express.NextFunction) => {
+export function initErrorHandler(app: Application) {
+    app.use((error: any, req: any, res: any, next: any) => {
         if (typeof error === 'number') {
             error = new HttpError(error); // next(404)
         }

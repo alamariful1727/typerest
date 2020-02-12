@@ -1,5 +1,6 @@
 import * as debug from 'debug';
-import { Address } from 'cluster';
+import { Server } from 'https';
+import { AddressInfo } from 'net';
 
 /**
  * @param  {NodeJS.ErrnoException} error
@@ -32,8 +33,8 @@ export function onError(error: NodeJS.ErrnoException, port: number | string | bo
 /**
  * @export onListening
  */
-export function onListening(): void {
-    const addr: Address = this.address();
+export function onListening(server: Server) {
+    const addr: string | AddressInfo = server.address();
     const bind: string = (typeof addr === 'string') ? `pipe ${addr}` : `port ${addr.port}`;
 
     debug(`Listening on ${bind}`);

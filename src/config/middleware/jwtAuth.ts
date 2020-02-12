@@ -22,7 +22,7 @@ interface RequestWithUser extends Request {
  *       in: header
  *       name: x-access-token
  */
-export function isAuthenticated(req: RequestWithUser, res: Response, next: NextFunction): void {
+export const isAuthenticated: any = (req: RequestWithUser, res: Response, next: NextFunction) => {
     const token: any = req.headers['x-access-token'];
 
     if (token) {
@@ -31,13 +31,13 @@ export function isAuthenticated(req: RequestWithUser, res: Response, next: NextF
 
             req.user = user;
 
-            return next();
+            next();
 
         } catch (error) {
-            return next(new HttpError(401, http.STATUS_CODES[401]));
+            next(new HttpError(401, http.STATUS_CODES[401]));
         }
     }
 
-    return next(new HttpError(400, 'No token provided'));
+    next(new HttpError(400, 'No token provided'));
 
-}
+};
